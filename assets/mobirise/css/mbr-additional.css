@@ -424,23 +424,23 @@ h6,
   color: #ffffff;
 }
 #menu-t .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-t .close-icon::before,
 #menu-t .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-t .link,
 #menu-t .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
 #menu-t .link {
-  font-size: 0.6rem;
+  font-size: 0.75rem;
 }
 #menu-t .dropdown-item,
 #menu-t .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 0.812rem;
 }
 #menu-t .link:hover,
 #menu-t .dropdown-item:hover,
@@ -465,7 +465,7 @@ h6,
   background: #ffffff;
 }
 #menu-t .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-t .bg-color.transparent.opened .link {
