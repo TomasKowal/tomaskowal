@@ -119,8 +119,8 @@ h6,
   border-color: #a07e49 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #efefef;
+  border-color: #efefef;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -129,14 +129,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #c9c9c9;
+  border-color: #c9c9c9;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -240,8 +240,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #bcbcbc;
+  color: #bcbcbc;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -249,14 +249,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #efefef;
+  border-color: #efefef;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #efefef !important;
+  border-color: #efefef !important;
 }
 .btn-info-outline {
   background: none;
@@ -494,11 +494,6 @@ h6,
 #header3-1s .mbr-section-subtitle {
   text-align: center;
 }
-#content8-1w .mbr-section-title,
-#content8-1w p {
-  text-align: right;
-  color: #fff;
-}
 #features4-2f .card-subtitle {
   color: #bcbcbc;
 }
@@ -506,7 +501,20 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#social-buttons2-2g .mbr-section-title,
-#social-buttons2-2g .btn-social {
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts3-2a SPAN {
+  color: #c0a375;
+}
+#contacts3-2a A {
+  color: #c0a375;
+}
+#social-buttons2-2h .mbr-section-title,
+#social-buttons2-2h .btn-social {
   color: #232323;
+}
+#social-buttons2-2h .mbr-section-title {
+  color: #ffffff;
 }
