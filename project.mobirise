@@ -300,7 +300,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showCaption": true,
+            "showCaption": false,
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -326,7 +326,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
