@@ -22,13 +22,14 @@
       },
       "additionalSetColors": [
         "#ffad16",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#f2f2f2"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 95,
+    "uniqCompNum": 97,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -292,6 +293,43 @@
           "_anchor": "content1-1t"
         },
         {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/ni_JOPSuHoM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=ni_JOPSuHoM",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-2n"
+        },
+        {
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -408,8 +446,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#2e2e2e",
+              "border-color": "#2e2e2e"
             }
           },
           "_params": {
@@ -418,7 +456,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#2e2e2e",
             "paddingTop": "1",
             "paddingBottom": "2",
             "columns": 3,
@@ -444,7 +482,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#efefef"
             }
           },
           "media2": {
@@ -456,18 +494,19 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#efefef"
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "briefcase",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#efefef"
             }
           },
           "media4": {
@@ -605,26 +644,6 @@
           "_anchor": "testimonials1-25"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Text<br>",
-          "meta": "text",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2j"
-        },
-        {
           "_params": {
             "showText": true,
             "paddingTop": 4,
@@ -639,7 +658,9 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/watch?v=sQojh-wqL04",
+              "autoplay": false,
+              "loop": "on"
             }
           },
           "text": "Crosete awuerse muesle-ferlnady waebles. Na cedlig and fraes.",
@@ -652,7 +673,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -765,10 +786,10 @@
             }
           },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-1844-1136x640.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1845-1136x640.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
