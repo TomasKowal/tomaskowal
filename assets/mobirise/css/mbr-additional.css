@@ -1,12 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-#ext_menu-r .mbr-brand__name {
-  font-size: 16px;
+#dropdown-menu-2btn-v .hide-buttons [data-button] {
+  display: none !important;
 }
-#ext_menu-r.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+#dropdown-menu-2btn-v .nav .link,
+#dropdown-menu-2btn-v .dropdown-item {
+  font-size: 1em;
+  color: #2c2c2c;
 }
-#ext_menu-r .mbr-navbar__hamburger {
-  color: #ffffff;
+#dropdown-menu-2btn-v .navbar,
+#dropdown-menu-2btn-v .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-v .dropdown-menu a:hover,
+#dropdown-menu-2btn-v .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-v .navbar-toggler {
+  color: #2c2c2c;
 }
 #msg-box4-3 .mbr-header__text {
   color: #ffffff;
