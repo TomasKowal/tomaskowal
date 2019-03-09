@@ -176,7 +176,22 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-10-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-50-1200x800.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1333.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -191,7 +206,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-50-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -206,7 +221,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-14-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1363.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -221,7 +236,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-19-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -236,7 +251,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-22-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -251,7 +266,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-23-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -266,7 +281,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-25-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -281,7 +296,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-29-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1389.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -296,7 +311,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-32-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -311,7 +326,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-33-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -326,7 +341,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-36-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -341,7 +356,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-40-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/daed8638-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -356,7 +371,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-45-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/coog0610-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -371,7 +386,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-48-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -386,7 +401,112 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-50-1200x800.png",
+                "image": "@PROJECT_PATH@/assets/images/15-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/16-2000x1266.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dqyh0614-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/23-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/24-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/26-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/27-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
