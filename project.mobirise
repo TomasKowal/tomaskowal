@@ -144,7 +144,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-2-2000x1333.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
