@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -129,11 +129,40 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-x"
+        },
+        {
+          "_params": {
             "autoplay": true,
             "fullScreen": true,
             "paddingTop": "2",
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
@@ -197,7 +226,7 @@
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -249,7 +278,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": "70",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-625-2000x1500.jpg",
@@ -612,7 +641,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -680,7 +709,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
