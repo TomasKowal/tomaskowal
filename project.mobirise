@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 41,
+    "uniqCompNum": 48,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -544,6 +544,174 @@
           ],
           "_name": "title4",
           "_anchor": "title4-f"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Was wir für Euch tun können",
+          "text": "(...und nich<i>!!</i>)",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "showTitle": false,
+            "showSubtitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Text with title1",
+          "subtitle1": "Subtitle1",
+          "text1": "Lorem 3ipsum dolor sit amet, consectetur adipisicing elit. Illo, atque incidunt architecto quis molestias dolore veritatis tenetur, perferendis reprehenderit nisi cumque odio qui ipsum libero sapiente possimus officiis beatae asperiores.",
+          "title2": "Text with title2",
+          "subtitle2": "Subtitle2",
+          "text2": "Lorem 2ipsum dolor sit amet, consectetur adipisicing elit. Illo, atque incidunt architecto quis molestias dolore veritatis tenetur, perferendis reprehenderit nisi cumque odio qui ipsum libero sapiente possimus officiis beatae asperiores.",
+          "title3": "Text with title3",
+          "subtitle3": "Subtitle3",
+          "text3": "Lorem 1ipsum dolor sit amet, consectetur adipisicing elit. Illo, atque incidunt architecto quis molestias dolore veritatis tenetur, perferendis reprehenderit nisi cumque odio qui ipsum libero sapiente possimus officiis beatae asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title2",
+          "_anchor": "title2-1b",
+          "_styles": {
+            "H5": {
+              "color": "#222222"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e0e0e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "5",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-1.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-2.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-3.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-4.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-5.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-6.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "Our clients",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider6",
+          "_anchor": "slider6-1a"
         }
       ]
     },

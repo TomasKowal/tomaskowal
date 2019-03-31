@@ -622,6 +622,9 @@ a:hover,
 #text1-l P {
   text-align: left;
 }
+#title2-1b H5 {
+  color: #222222;
+}
 #menu2-q .hide-buttons .nav-btn {
   display: none !important;
 }
