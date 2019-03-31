@@ -3,6 +3,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -557,6 +558,7 @@ a:hover,
 #menu2-2 .link,
 #menu2-2 .dropdown-item {
   color: #989898;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu2-2 .link {
   font-size: 0.75rem;
@@ -625,6 +627,17 @@ a:hover,
 #title2-1b H5 {
   color: #222222;
 }
+#social2-1e .mbr-section-title,
+#social2-1e .btn-social {
+  color: #232323;
+}
+#social2-1e .mbr-section-title SPAN {
+  font-size: 84px;
+}
+#social1-1d .mbr-section-title SPAN {
+  font-size: 84px;
+}
+
 #menu2-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -641,6 +654,7 @@ a:hover,
 #menu2-q .link,
 #menu2-q .dropdown-item {
   color: #989898;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu2-q .link {
   font-size: 0.75rem;
@@ -700,6 +714,7 @@ a:hover,
 #menu2-q .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+
 #menu2-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -716,6 +731,7 @@ a:hover,
 #menu2-r .link,
 #menu2-r .dropdown-item {
   color: #989898;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu2-r .link {
   font-size: 0.75rem;
