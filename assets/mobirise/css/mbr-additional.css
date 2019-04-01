@@ -617,40 +617,43 @@ a:hover,
 #menu4-1g .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+#title4-1s I {
+  font-size: 46px;
+}
 #header3-1h EM {
   color: #222222;
 }
 #header3-1h H1 {
   color: #222222;
-  font-size: 48px;
+  font-size: 36px;
   text-align: center;
 }
 #header3-1h P {
-  color: #222222;
+  color: #ffffff;
   text-align: center;
 }
 #header3-1h SPAN {
   font-size: 30px;
 }
 #text1-m H3 {
-  text-align: center;
-  font-size: 36px;
+  text-align: left;
+  font-size: 46px;
   color: #222222;
 }
 #text1-m P {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #text1-m I {
   color: #222222;
 }
 #text1-n H3 {
-  text-align: center;
-  font-size: 36px;
+  text-align: left;
+  font-size: 46px;
   color: #222222;
 }
 #text1-n P {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #text1-n I {
@@ -658,7 +661,7 @@ a:hover,
 }
 #text1-16 H3 {
   text-align: center;
-  font-size: 36px;
+  font-size: 46px;
   color: #222222;
 }
 #text1-16 P {
@@ -669,7 +672,7 @@ a:hover,
   color: #222222;
 }
 #header3-1n H1 {
-  font-size: 30px;
+  font-size: 36px;
   color: #222222;
   text-align: left;
 }
