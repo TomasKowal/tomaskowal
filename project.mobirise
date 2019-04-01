@@ -237,10 +237,10 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "showTitle": true,
-            "showSeparator": true,
+            "showSeparator": false,
             "showSubtitle": false,
             "showText": false,
             "showButtons": false,
@@ -367,12 +367,12 @@
           "_anchor": "text1-m",
           "_styles": {
             "H3": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "46px",
               "color": "#222222"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "18px"
             },
             "I": {
@@ -529,12 +529,12 @@
           "_anchor": "text1-n",
           "_styles": {
             "H3": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "46px",
               "color": "#222222"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "18px"
             },
             "I": {
