@@ -548,15 +548,15 @@ a:hover,
   color: #ffffff;
 }
 #menu4-1g .navbar-toggler {
-  color: #989898;
+  color: #222222;
 }
 #menu4-1g .close-icon::before,
 #menu4-1g .close-icon::after {
-  background-color: #989898;
+  background-color: #222222;
 }
 #menu4-1g .link,
 #menu4-1g .dropdown-item {
-  color: #989898;
+  color: #222222;
 }
 #menu4-1g .link {
   font-size: 0.75rem;
@@ -585,10 +585,10 @@ a:hover,
 #menu4-1g .nav-dropdown-sm,
 #menu4-1g .nav-dropdown-sm .link[aria-expanded="true"],
 #menu4-1g .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
+  background: #ffffff;
 }
 #menu4-1g .bg-color.transparent .link {
-  color: #989898;
+  color: #222222;
   transition: none;
 }
 #menu4-1g .navbar-toggler i,
@@ -597,7 +597,7 @@ a:hover,
 #menu4-1g .navbar-toggler em:before,
 #menu4-1g .navbar-toggler i:after,
 #menu4-1g .navbar-toggler em:after {
-  background: #989898;
+  background: #222222;
 }
 #menu4-1g .navbar-toggler[aria-expanded="true"] i,
 #menu4-1g .navbar-toggler[aria-expanded="true"] em {
@@ -615,10 +615,22 @@ a:hover,
   color: #222!important;
 }
 #text1-l H3 {
-  text-align: left;
+  text-align: center;
 }
 #text1-l P {
-  text-align: left;
+  text-align: center;
+}
+#text1-m H3 {
+  text-align: center;
+}
+#text1-m P {
+  text-align: center;
+}
+#text1-16 H3 {
+  text-align: center;
+}
+#text1-16 P {
+  text-align: center;
 }
 #title2-1b H5 {
   color: #222222;

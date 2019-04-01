@@ -48,13 +48,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#989898"
+              "color": "#222222"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#989898"
+              "background-color": "#222222"
             },
             ".link, .dropdown-item": {
-              "color": "#989898"
+              "color": "#222222"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -72,14 +72,14 @@
               "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#989898",
+              "color": "#222222",
               "transition": "none"
             },
             ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#989898"
+              "background": "#222222"
             },
             ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
               "background": "transparent"
@@ -97,11 +97,11 @@
           "_params": {
             "logo": true,
             "sticky": true,
-            "transparent": false,
-            "bgColor": "#fff",
+            "transparent": true,
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#989898",
+            "fontColor": "#222222",
             "fontHoverColor": "#222"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Tutorials</a></li>",
@@ -384,10 +384,10 @@
           "_anchor": "text1-l",
           "_styles": {
             "H3": {
-              "text-align": "left"
+              "text-align": "center"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -442,7 +442,15 @@
             "Theme"
           ],
           "_name": "text1",
-          "_anchor": "text1-m"
+          "_anchor": "text1-m",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -566,7 +574,15 @@
             "Theme"
           ],
           "_name": "text1",
-          "_anchor": "text1-16"
+          "_anchor": "text1-16",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
