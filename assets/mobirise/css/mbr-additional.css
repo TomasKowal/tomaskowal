@@ -628,6 +628,9 @@ a:hover,
   font-size: 36px;
   font-family: 'PT Sans', sans-serif;
 }
+#title4-1s H1 {
+  font-size: 46px;
+}
 #header3-1h EM {
   color: #222222;
 }
@@ -646,7 +649,7 @@ a:hover,
 }
 #text1-m H3 {
   text-align: center;
-  font-size: 36px;
+  font-size: 46px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
@@ -660,7 +663,7 @@ a:hover,
 }
 #text1-n H3 {
   text-align: center;
-  font-size: 36px;
+  font-size: 46px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
@@ -673,13 +676,13 @@ a:hover,
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #text1-16 H3 {
-  text-align: center;
-  font-size: 36px;
+  text-align: left;
+  font-size: 46px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
 #text1-16 P {
-  text-align: center;
+  text-align: left;
 }
 #text1-16 I {
   font-size: 18px;
@@ -698,7 +701,10 @@ a:hover,
   text-align: left;
 }
 #text8-21 P {
-  text-align: left;
+  text-align: right;
+}
+#text8-21 H3 {
+  text-align: right;
 }
 #header3-1n H1 {
   font-size: 36px;

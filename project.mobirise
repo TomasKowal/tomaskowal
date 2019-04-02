@@ -263,7 +263,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "Willkommen im Radkombinat!",
+          "title": "Willkommen im Radkombinat<i>!</i>",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
@@ -278,6 +278,9 @@
               "font-size": "36px",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "H1": {
+              "font-size": "46px"
             }
           }
         },
@@ -378,7 +381,7 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "36px",
+              "font-size": "46px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -469,7 +472,7 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "36px",
+              "font-size": "46px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -534,7 +537,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/header_crew-1-1200x800.jpg",
             "parallax": true,
@@ -559,14 +562,14 @@
           "_anchor": "text1-16",
           "_styles": {
             "H3": {
-              "text-align": "center",
-              "font-size": "36px",
+              "text-align": "left",
+              "font-size": "46px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             },
             "I": {
               "font-size": "18px",
@@ -692,7 +695,10 @@
           "_anchor": "text8-21",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "right"
+            },
+            "H3": {
+              "text-align": "right"
             }
           }
         },
@@ -865,7 +871,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">kontakte uns</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
