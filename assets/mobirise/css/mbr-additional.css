@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 
 
@@ -52,7 +52,7 @@ cite,
   font-family: 'Roboto', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
@@ -60,7 +60,7 @@ cite,
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 /*SUBTITLE*/
@@ -74,7 +74,7 @@ cite,
 .mbr-testimonial .card-block,
 .nav-link.link,
 .dropdown-item {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 /*TEXT*/
@@ -618,7 +618,7 @@ a:hover,
   color: #222!important;
 }
 #title4-1s I {
-  font-size: 46px;
+  font-size: 36px;
 }
 #header3-1h EM {
   color: #222222;
@@ -637,7 +637,7 @@ a:hover,
 }
 #text1-m H3 {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
 }
 #text1-m P {
@@ -649,7 +649,7 @@ a:hover,
 }
 #text1-n H3 {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
 }
 #text1-n P {
@@ -661,7 +661,7 @@ a:hover,
 }
 #text1-16 H3 {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
 }
 #text1-16 P {
@@ -856,7 +856,4 @@ a:hover,
 }
 #menu2-r .dropdown-item[aria-expanded="true"] {
   color: #222!important;
-}
-#title3-10 P {
-  text-align: left;
 }
