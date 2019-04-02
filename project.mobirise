@@ -30,7 +30,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -367,7 +367,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/idap7643-1-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -377,7 +377,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lxpr7871-1-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -387,7 +387,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ndot1433-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -397,7 +397,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oota0658-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -407,7 +407,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rujf5044-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -417,7 +417,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timo-bikes-134-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -427,7 +427,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timo-bikes-144-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -437,7 +437,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timo-bikes-152-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -447,7 +447,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timo-bikes-177-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -457,7 +457,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timo-bikes-179-copy-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -478,12 +478,12 @@
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": "0.5",
-            "customSize": true,
+            "customSize": false,
             "customWidth": "1600",
             "customHeight": "900",
-            "size": "1600x1080",
-            "width": "1600",
-            "height": "1080"
+            "size": "1024x768",
+            "width": "1024",
+            "height": "768"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -547,7 +547,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/bckb0380-2-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -557,7 +557,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -567,7 +567,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -577,7 +577,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/csyj4371-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -587,7 +587,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/cwxm5020-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -597,7 +597,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/eggf9876-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -607,7 +607,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gcbi2586-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -617,7 +617,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gvjb9699-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -627,7 +627,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hjbs9392-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -637,7 +637,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/humt8225-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -658,12 +658,12 @@
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": "0.5",
-            "customSize": true,
+            "customSize": false,
             "customWidth": "1600",
             "customHeight": "900",
-            "size": "1600x1080",
-            "width": "1600",
-            "height": "1080"
+            "size": "1024x768",
+            "width": "1024",
+            "height": "768"
           },
           "articleLayout": false,
           "alias": "wowslider",
