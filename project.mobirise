@@ -30,7 +30,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 70,
+    "uniqCompNum": 72,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -702,83 +702,30 @@
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "48px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px"
-            },
-            ".mbr-section-title B": {
-              "color": "#222222",
+            ".mbr-section-title I": {
               "font-size": "46px"
             }
           },
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/9-header-kleinklein-1-1024x683.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1846-1136x640.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
-            "overlayColor": "#e5e5e5",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
           },
-          "text": "<b>Follow the Black Rooster<i>!!</i></b>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "text": "<b><i>Follow the Black Rooster!!</i></b>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
           "_name": "social2",
-          "_anchor": "social2-1e"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 2,
-            "showTitle": false,
-            "showSubtitle": false,
-            "showButtons": false,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9-header-kleinklein-1-1024x683.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": "0.1"
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<em>SpaceM</em> Page Builder",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis id eligendi assumenda, cumque optio veniam eos perferendis molestias explicabo odit. Libero, suscipit. Quae praesentium, tempore minima quod tempora odio cumque nam mollitia dolores possimus porro omnis aliquid deserunt magnam non voluptates? Beatae quod illum ullam unde, quae, distinctio architecto modi.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1r"
+          "_anchor": "social2-1z"
         },
         {
           "_params": {

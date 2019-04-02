@@ -5,7 +5,6 @@
 
 
 
-
 /*TITLE*/
 .alert,
 h1,
@@ -680,19 +679,11 @@ a:hover,
   color: #222222;
   text-align: left;
 }
-#social2-1e .mbr-section-title,
-#social2-1e .btn-social {
+#social2-1z .mbr-section-title,
+#social2-1z .btn-social {
   color: #232323;
 }
-#social2-1e .mbr-section-title SPAN {
-  font-size: 48px;
-  font-family: 'Roboto', sans-serif;
-}
-#social2-1e .mbr-section-title {
-  font-size: 48px;
-}
-#social2-1e .mbr-section-title B {
-  color: #222222;
+#social2-1z .mbr-section-title I {
   font-size: 46px;
 }
 #contacts1-1c H1 {
