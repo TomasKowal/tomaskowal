@@ -148,7 +148,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -156,14 +156,14 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/shop-rad4-2-800x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -178,7 +178,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -193,7 +193,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -208,7 +208,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -216,14 +216,14 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/shop-rad3-7-800x1200.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Website <em>Maker</em>",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
                 "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
@@ -547,7 +547,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -557,7 +557,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bckb0380-2-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -567,7 +567,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -577,7 +577,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/csyj4371-3-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -587,7 +587,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cwxm5020-3-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -597,7 +597,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-105-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -607,7 +607,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-120-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -617,7 +617,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-121-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -627,7 +627,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-131-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -637,7 +637,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-134-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
