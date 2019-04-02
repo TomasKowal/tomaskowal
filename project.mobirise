@@ -554,7 +554,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
@@ -564,7 +564,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x768.png",
@@ -883,7 +883,7 @@
               "loop": false
             }
           },
-          "title": "Text...",
+          "title": "Fazit ...",
           "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, totam sit! Ut perspiciatis sint minima, a, consequatur maxime minus neque voluptatem laborum distinctio amet. Ea deleniti sed, commodi aperiam! Harum excepturi ipsa temporibus sit, natus illum expedita officiis doloribus a aspernatur",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -928,7 +928,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.3"
           },
-          "text": "<b>Follow the Rooster<i>!!</i></b>",
+          "text": "<b>Folge<i>!</i></b>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "alias": "spacem/components",
           "_tags": [
@@ -1044,7 +1044,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "<b>Share this page<i>!</i></b>",
+          "text": "<span style=\"font-size: 46px;\"><b>Teile<i>!</i></b></span>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -1058,7 +1058,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-title B": {
-              "font-size": "48px"
+              "font-size": "46px"
             }
           }
         },
