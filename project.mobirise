@@ -291,7 +291,7 @@
           "_params": {
             "showText": true,
             "paddingTop": "1",
-            "paddingBottom": 4,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "media": {
@@ -315,7 +315,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
@@ -367,7 +367,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -377,7 +377,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bckb0380-2-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -387,7 +387,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -397,7 +397,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/csyj4371-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -407,7 +407,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/cwxm5020-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -417,7 +417,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/eggf9876-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -427,7 +427,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gcbi2586-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -437,7 +437,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/gvjb9699-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -447,7 +447,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hjbs9392-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -457,7 +457,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/humt8225-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1-3-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -495,7 +495,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
