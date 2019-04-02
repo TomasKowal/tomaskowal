@@ -1,6 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
+
+
+
+
+
 
 
 
@@ -31,7 +39,7 @@ h6,
 .timer,
 cite,
 .page_head blockquote p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -45,21 +53,21 @@ cite,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-author-name {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-style: normal;
 }
 /*SUBTITLE*/
@@ -73,7 +81,7 @@ cite,
 .mbr-testimonial .card-block,
 .nav-link.link,
 .dropdown-item {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
   font-style: normal;
 }
 /*TEXT*/
@@ -85,11 +93,11 @@ li,
 .mbr-gallery-filter ul li span,
 .mbr-company .list-group-text,
 .mbr-section-text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 /*ROUNDED BUTTONS*/
 .btn {
@@ -159,7 +167,7 @@ a:hover,
   background-color: #1a5ceb !important;
 }
 .bg-warning {
-  background-color: #e5e5e5 !important;
+  background-color: #757575 !important;
 }
 .bg-danger {
   background-color: #eb5a1a !important;
@@ -255,14 +263,14 @@ a:hover,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e5e5e5;
-  border-color: #e5e5e5;
+  background-color: #757575;
+  border-color: #757575;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #bfbfbf !important;
-  border-color: #bfbfbf !important;
+  background-color: #4f4f4f !important;
+  border-color: #4f4f4f !important;
 }
 .btn-danger {
   background-color: transparent;
@@ -386,8 +394,8 @@ a:hover,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #b2b2b2;
-  color: #b2b2b2;
+  border-color: #424242;
+  color: #424242;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -395,14 +403,14 @@ a:hover,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #e5e5e5;
-  border-color: #e5e5e5;
+  background-color: #757575;
+  border-color: #757575;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #e5e5e5 !important;
-  border-color: #e5e5e5 !important;
+  background-color: #757575 !important;
+  border-color: #757575 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -434,7 +442,7 @@ a:hover,
   color: #1a5ceb !important;
 }
 .text-warning {
-  color: #e5e5e5 !important;
+  color: #757575 !important;
 }
 .text-danger {
   color: #eb5a1a !important;
@@ -446,7 +454,7 @@ a:hover,
   background-color: #1a5ceb;
 }
 .alert-warning {
-  background-color: #e5e5e5;
+  background-color: #757575;
 }
 .alert-danger {
   background-color: #eb5a1a;
@@ -493,7 +501,7 @@ a:hover,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #b5b5b5;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -618,6 +626,7 @@ a:hover,
 }
 #title4-1s I {
   font-size: 36px;
+  font-family: 'PT Sans', sans-serif;
 }
 #header3-1h EM {
   color: #222222;
@@ -630,6 +639,7 @@ a:hover,
 #header3-1h P {
   color: #ffffff;
   text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #header3-1h SPAN {
   font-size: 30px;
@@ -638,6 +648,7 @@ a:hover,
   text-align: center;
   font-size: 36px;
   color: #222222;
+  font-family: 'PT Sans', sans-serif;
 }
 #text1-m P {
   text-align: center;
@@ -645,11 +656,13 @@ a:hover,
 }
 #text1-m I {
   color: #222222;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #text1-n H3 {
   text-align: center;
   font-size: 36px;
   color: #222222;
+  font-family: 'PT Sans', sans-serif;
 }
 #text1-n P {
   text-align: center;
@@ -657,11 +670,13 @@ a:hover,
 }
 #text1-n I {
   color: #222222;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 #text1-16 H3 {
   text-align: center;
   font-size: 36px;
   color: #222222;
+  font-family: 'PT Sans', sans-serif;
 }
 #text1-16 P {
   text-align: center;
@@ -669,6 +684,13 @@ a:hover,
 #text1-16 I {
   font-size: 18px;
   color: #222222;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#news2-20 H3 {
+  font-size: 32px;
+}
+#news2-20 H5 {
+  color: #757575;
 }
 #header3-1n H1 {
   font-size: 36px;
@@ -684,7 +706,10 @@ a:hover,
   color: #232323;
 }
 #social2-1z .mbr-section-title I {
-  font-size: 46px;
+  font-size: 48px;
+}
+#social2-1z .mbr-section-title B {
+  font-size: 48px;
 }
 #contacts1-1c H1 {
   color: #222222;
@@ -692,7 +717,10 @@ a:hover,
 }
 #social1-1d .mbr-section-title SPAN {
   font-size: 48px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+}
+#social1-1d .mbr-section-title B {
+  font-size: 48px;
 }
 
 #menu2-q .hide-buttons .nav-btn {
