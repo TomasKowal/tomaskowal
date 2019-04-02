@@ -30,7 +30,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -478,9 +478,9 @@
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": "0.5",
-            "customSize": false,
+            "customSize": true,
             "customWidth": "1600",
-            "customHeight": "1080",
+            "customHeight": "900",
             "size": "1600x1080",
             "width": "1600",
             "height": "1080"
@@ -543,11 +543,21 @@
         {
           "_params": {
             "autoplay": false,
-            "animType": "basic",
+            "animType": "basic_linear",
             "theme": "absent",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/bckb0380-2-1024x768.png",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -648,9 +658,9 @@
             "bgColor": "#ffffff",
             "timeout": 2,
             "duration": "0.5",
-            "customSize": false,
+            "customSize": true,
             "customWidth": "1600",
-            "customHeight": "1080",
+            "customHeight": "900",
             "size": "1600x1080",
             "width": "1600",
             "height": "1080"
@@ -661,7 +671,7 @@
             "Erweiterung"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-2a"
+          "_anchor": "wowslider-2c"
         },
         {
           "_params": {
