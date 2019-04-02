@@ -688,9 +688,17 @@ a:hover,
 }
 #news2-20 H3 {
   font-size: 32px;
+  text-align: left;
 }
 #news2-20 H5 {
   color: #757575;
+  text-align: left;
+}
+#news2-20 P {
+  text-align: left;
+}
+#text8-21 P {
+  text-align: left;
 }
 #header3-1n H1 {
   font-size: 36px;

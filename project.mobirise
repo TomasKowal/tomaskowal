@@ -548,7 +548,7 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Wo Ihr uns finden könnt und was Ihr von uns erwarten dürft",
+          "title": "Was Ihr von uns erwarten dürft ...",
           "text": "<i>(...und nich!!)</i>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -649,10 +649,15 @@
           "_anchor": "news2-20",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "left"
             },
             "H5": {
-              "color": "#757575"
+              "color": "#757575",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -675,7 +680,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "...und der natürliche Zwang zur Perfektion<i>!</i>",
+          "title": "...sowie den natürlichen Zwang zur Perfektion<i>!</i>",
           "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dicta minus, eligendi explicabo itaque rerum ipsam eius doloremque quis ipsa fugiat quidem dolor ab nisi voluptatem voluptas dolorem architecto, maxime ea qui iusto consectetur, obcaecati natus unde expedita! Similique, cum. Omnis consectetur esse perspiciatis nisi excepturi animi odit corporis inventore asperiores, eos unde, officia non autem hic blanditiis nesciunt beatae mollitia neque consequuntur nostrum repudiandae aliquam pariatur voluptate! Exercitationem, quisquam, numquam. Dolore provident alias ratione asperiores tempora quibusdam sint vitae?",
           "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, cumque, aut! Ratione, alias corporis, facere voluptate ipsa atque dolorum placeat natus ad ipsum mollitia distinctio consectetur. Rerum aliquid odio eos unde tempore! Quas, at facere consectetur. Rerum dicta accusamus, laboriosam.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
@@ -684,7 +689,12 @@
             "Theme"
           ],
           "_name": "text8",
-          "_anchor": "text8-21"
+          "_anchor": "text8-21",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
