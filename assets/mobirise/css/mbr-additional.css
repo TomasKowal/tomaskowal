@@ -12,7 +12,6 @@
 
 
 
-
 /*TITLE*/
 .alert,
 h1,
@@ -631,21 +630,8 @@ a:hover,
 #title4-1s H1 {
   font-size: 46px;
 }
-#header3-1h EM {
-  color: #222222;
-}
-#header3-1h H1 {
-  color: #222222;
-  font-size: 36px;
-  text-align: center;
-}
-#header3-1h P {
-  color: #ffffff;
-  text-align: center;
-  font-family: 'PT Sans Narrow', sans-serif;
-}
-#header3-1h SPAN {
-  font-size: 30px;
+#title4-1s P {
+  font-size: 17px;
 }
 #text1-m H3 {
   text-align: center;
@@ -811,82 +797,5 @@ a:hover,
   color: #fff!important;
 }
 #menu2-q .dropdown-item[aria-expanded="true"] {
-  color: #222!important;
-}
-
-#menu2-r .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu2-r .navbar-caption {
-  color: #ffffff;
-}
-#menu2-r .navbar-toggler {
-  color: #989898;
-}
-#menu2-r .close-icon::before,
-#menu2-r .close-icon::after {
-  background-color: #989898;
-}
-#menu2-r .link,
-#menu2-r .dropdown-item {
-  color: #989898;
-  font-family: 'Droid Sans', sans-serif;
-}
-#menu2-r .link {
-  font-size: 0.75rem;
-}
-#menu2-r .dropdown-item,
-#menu2-r .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu2-r .link:hover,
-#menu2-r .dropdown-item:hover,
-#menu2-r .link:focus,
-#menu2-r .dropdown-item:focus {
-  color: #fff;
-}
-#menu2-r .link[aria-expanded="true"],
-#menu2-r .dropdown-menu {
-  background: #000000;
-}
-#menu2-r .nav-dropdown-sm .link:focus,
-#menu2-r .nav-dropdown-sm .link:hover,
-#menu2-r .nav-dropdown-sm .dropdown-item:focus,
-#menu2-r .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu2-r .navbar,
-#menu2-r .nav-dropdown-sm,
-#menu2-r .nav-dropdown-sm .link[aria-expanded="true"],
-#menu2-r .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu2-r .bg-color.transparent .link {
-  color: #989898;
-  transition: none;
-}
-#menu2-r .navbar-toggler i,
-#menu2-r .navbar-toggler em,
-#menu2-r .navbar-toggler i:before,
-#menu2-r .navbar-toggler em:before,
-#menu2-r .navbar-toggler i:after,
-#menu2-r .navbar-toggler em:after {
-  background: #989898;
-}
-#menu2-r .navbar-toggler[aria-expanded="true"] i,
-#menu2-r .navbar-toggler[aria-expanded="true"] em {
-  background: transparent;
-}
-#menu2-r .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu2-r .bg-color.transparent.opened .link:hover,
-#menu2-r .bg-color.transparent.opened .link:focus {
-  color: #fff;
-}
-#menu2-r .link[aria-expanded="true"] {
-  color: #fff!important;
-}
-#menu2-r .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
