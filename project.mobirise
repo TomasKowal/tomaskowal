@@ -918,11 +918,11 @@
           },
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1846-1136x640.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#ffffff",
@@ -1028,8 +1028,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/social.jpg",
             "parallax": true,
