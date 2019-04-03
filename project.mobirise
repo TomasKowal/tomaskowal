@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -907,112 +907,50 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
             "showText": false,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "showArrows": false,
-            "showBullets": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/header_crew-1-1200x800.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e0e0e0",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "6",
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-campagnolo-235x51.png",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bianchi-logo-2717x413.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-milaneli-184x98.png",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/vkmlogonew2-451x98.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/dancelli-logo-3-1089x172.jpg",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-colnago-cicli-corsa-2000x415.png",
-                    "link": "https://mobirise.com",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
+            "overlay": true,
+            "overlayColor": "#e5e5e5",
+            "overlayOpacity": "0.2"
           },
-          "title": "Our clients",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "arrowLeft": "@THEME_PATH@/components/_images/slider/arrow-left-white.svg",
-          "arrowRight": "@THEME_PATH@/components/_images/slider/arrow-right-white.svg",
+          "title": "Und hier sind wir zu finden ...",
+          "text": "<i>(...und nich!!)</i>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider6",
-          "_anchor": "slider6-2g"
+          "_name": "text1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "46px",
+              "color": "#222222",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "18px",
+              "color": "#222222",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            }
+          },
+          "_anchor": "text1-2h"
         },
         {
           "_params": {
