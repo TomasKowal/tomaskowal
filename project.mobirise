@@ -262,7 +262,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "showTitle": false,
-            "showSeparator": false,
+            "showSeparator": true,
             "showSubtitle": false,
             "showText": false,
             "showButtons": false,
