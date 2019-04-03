@@ -259,73 +259,24 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "showTitle": false,
-            "showSeparator": false,
-            "showSubtitle": true,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<br><br>Willkommen!",
-          "subtitle": "",
-          "text": "<b>&nbsp;</b><br><b><br></b><br><br><br><b><br></b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-1s",
-          "_styles": {
-            "I": {
-              "font-size": "36px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H1": {
-              "font-size": "46px",
-              "text-align": "right",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "P": {
-              "font-size": "17px"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/12_header-1-1920x1280.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#e5e5e5",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
           },
-          "title": "Willkommen im Radkombinat",
+          "title": "Willkommen im Radkombinat<i>!</i>",
           "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Wir sind an folgenden Tagen für Euch</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>am Start:</i></font><br><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Mo. - Fr. von 14.00 bis 19.00 Uhr</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>sowie</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>...</i></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -349,7 +300,7 @@
               "color": "#222222",
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "18px"
+              "font-size": "36px"
             }
           },
           "_anchor": "text1-2e"
