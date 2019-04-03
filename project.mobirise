@@ -33,7 +33,13 @@
     ],
     "uniqCompNum": 92,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -61,7 +67,9 @@
               "background-color": "#222222"
             },
             ".link, .dropdown-item": {
-              "color": "#222222"
+              "color": "#222222",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
               "font-size": "0.6rem"
@@ -107,11 +115,15 @@
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.6",
-            "fontName": {},
+            "fontName": {
+              "name": "PT Sans",
+              "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "css": "'PT Sans', sans-serif"
+            },
             "fontColor": "#222222",
             "fontHoverColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-m\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-16\">über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social2-1e\">kontakte</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:123456789\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>e-mail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:123456789\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>direkt</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-m\">räder im<br>kombinat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-n\">erfolgreich<br>vermittelt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-16\">über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-2h\">kontakte</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:123456789\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>e-mail</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:123456789\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>direkt</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -333,7 +345,7 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Räder im Shop",
+          "title": "Räder im Kombinat",
           "text": "<i>(Keine Gewehr - erkundigt Euch bitte &nbsp;vor Ort)</i>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",

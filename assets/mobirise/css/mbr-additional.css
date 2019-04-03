@@ -13,6 +13,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -567,6 +568,7 @@ a:hover,
 #menu4-1g .link,
 #menu4-1g .dropdown-item {
   color: #222222;
+  font-family: 'PT Sans', sans-serif;
 }
 #menu4-1g .link {
   font-size: 0.6rem;
