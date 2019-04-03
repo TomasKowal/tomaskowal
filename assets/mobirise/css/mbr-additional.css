@@ -552,78 +552,78 @@ a:hover,
 .panel.active .panel-heading a span:after {
   background: #e5e5e5;
 }
-#menu4-1g .hide-buttons .nav-btn {
+#menu4-2m .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu4-1g .navbar-caption {
+#menu4-2m .navbar-caption {
   color: #ffffff;
 }
-#menu4-1g .navbar-toggler {
+#menu4-2m .navbar-toggler {
   color: #222222;
 }
-#menu4-1g .close-icon::before,
-#menu4-1g .close-icon::after {
+#menu4-2m .close-icon::before,
+#menu4-2m .close-icon::after {
   background-color: #222222;
 }
-#menu4-1g .link,
-#menu4-1g .dropdown-item {
+#menu4-2m .link,
+#menu4-2m .dropdown-item {
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
-#menu4-1g .link {
+#menu4-2m .link {
   font-size: 0.6rem;
 }
-#menu4-1g .dropdown-item,
-#menu4-1g .nav-dropdown-sm .link {
+#menu4-2m .dropdown-item,
+#menu4-2m .nav-dropdown-sm .link {
   font-size: 0.650rem;
 }
-#menu4-1g .link:hover,
-#menu4-1g .dropdown-item:hover,
-#menu4-1g .link:focus,
-#menu4-1g .dropdown-item:focus {
+#menu4-2m .link:hover,
+#menu4-2m .dropdown-item:hover,
+#menu4-2m .link:focus,
+#menu4-2m .dropdown-item:focus {
   color: #222;
 }
-#menu4-1g .link[aria-expanded="true"],
-#menu4-1g .dropdown-menu {
+#menu4-2m .link[aria-expanded="true"],
+#menu4-2m .dropdown-menu {
   background: #e6e6e6;
 }
-#menu4-1g .nav-dropdown-sm .link:focus,
-#menu4-1g .nav-dropdown-sm .link:hover,
-#menu4-1g .nav-dropdown-sm .dropdown-item:focus,
-#menu4-1g .nav-dropdown-sm .dropdown-item:hover {
+#menu4-2m .nav-dropdown-sm .link:focus,
+#menu4-2m .nav-dropdown-sm .link:hover,
+#menu4-2m .nav-dropdown-sm .dropdown-item:focus,
+#menu4-2m .nav-dropdown-sm .dropdown-item:hover {
   background: #f7f7f7!important;
 }
-#menu4-1g .navbar,
-#menu4-1g .nav-dropdown-sm,
-#menu4-1g .nav-dropdown-sm .link[aria-expanded="true"],
-#menu4-1g .nav-dropdown-sm .dropdown-menu {
+#menu4-2m .navbar,
+#menu4-2m .nav-dropdown-sm,
+#menu4-2m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu4-2m .nav-dropdown-sm .dropdown-menu {
   background: #ffffff;
 }
-#menu4-1g .bg-color.transparent .link {
+#menu4-2m .bg-color.transparent .link {
   color: #222222;
   transition: none;
 }
-#menu4-1g .navbar-toggler i,
-#menu4-1g .navbar-toggler em,
-#menu4-1g .navbar-toggler i:before,
-#menu4-1g .navbar-toggler em:before,
-#menu4-1g .navbar-toggler i:after,
-#menu4-1g .navbar-toggler em:after {
+#menu4-2m .navbar-toggler i,
+#menu4-2m .navbar-toggler em,
+#menu4-2m .navbar-toggler i:before,
+#menu4-2m .navbar-toggler em:before,
+#menu4-2m .navbar-toggler i:after,
+#menu4-2m .navbar-toggler em:after {
   background: #222222;
 }
-#menu4-1g .navbar-toggler[aria-expanded="true"] i,
-#menu4-1g .navbar-toggler[aria-expanded="true"] em {
+#menu4-2m .navbar-toggler[aria-expanded="true"] i,
+#menu4-2m .navbar-toggler[aria-expanded="true"] em {
   background: transparent;
 }
-#menu4-1g .bg-color.transparent.opened .link {
+#menu4-2m .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu4-1g .bg-color.transparent.opened .link:hover,
-#menu4-1g .bg-color.transparent.opened .link:focus {
+#menu4-2m .bg-color.transparent.opened .link:hover,
+#menu4-2m .bg-color.transparent.opened .link:focus {
   color: #222;
 }
-#menu4-1g .link[aria-expanded="true"],
-#menu4-1g .dropdown-item[aria-expanded="true"] {
+#menu4-2m .link[aria-expanded="true"],
+#menu4-2m .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
 #title4-1s I {
@@ -756,19 +756,19 @@ a:hover,
 }
 #menu2-q .link[aria-expanded="true"],
 #menu2-q .dropdown-menu {
-  background: #000000;
+  background: #cccccc;
 }
 #menu2-q .nav-dropdown-sm .link:focus,
 #menu2-q .nav-dropdown-sm .link:hover,
 #menu2-q .nav-dropdown-sm .dropdown-item:focus,
 #menu2-q .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #dddddd!important;
 }
 #menu2-q .navbar,
 #menu2-q .nav-dropdown-sm,
 #menu2-q .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-q .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #e5e5e5;
 }
 #menu2-q .bg-color.transparent .link {
   color: #989898;
