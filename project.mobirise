@@ -916,7 +916,8 @@
               "text-align": "right"
             },
             "H3": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "36px"
             }
           }
         },
