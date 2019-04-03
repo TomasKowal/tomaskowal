@@ -346,7 +346,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Räder im Kombinat",
-          "text": "<i>(Keine Gewehr - erkundigt Euch bitte &nbsp;vor Ort)</i>",
+          "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Keine Gewehr - Erkundigt Euch vor Ort!</i></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -526,7 +526,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Erfolgreich vermittelte Velos",
-          "text": "<i>(Hier könnte auch Deines bald zu sehen sein)</i>",
+          "text": "<i>Finde Dein´s!</i><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
