@@ -1,5 +1,3 @@
-/* ws_basic */
-function ws_basic(b,e,c){var d=$(this);this.go=function(a){c.find(".ws_list").css("transform","translate3d(0,0,0)").stop(!0).animate({left:a?-a+"00%":/Safari/.test(navigator.userAgent)?"0%":0},b.duration,"easeInOutExpo",function(){d.trigger("effectEnd")})}};
 // basic_linear 
 // options.revers - change the direction of transition
 function ws_basic_linear(e,k,l){var d=jQuery,n=d(this),p=l.find(".ws_list"),q=d("<div>").addClass("ws_effect ws_basic_linear").css({position:"absolute",top:0,left:0,width:"100%",height:"100%",overflow:"hidden"}).appendTo(l),g=d("<div>").css({position:"absolute",display:"none","z-index":2,width:"200%",height:"100%",transform:"translate3d(0,0,0)"}).appendTo(q),f=d("<div>").css({position:"absolute",left:"auto",top:"auto",width:"50%",height:"100%",overflow:"hidden"}),h=f.clone();g.append(f,h);this.go=
