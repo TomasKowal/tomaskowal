@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -971,9 +971,10 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Ritterstraße 51 21335 Lüneburg ",
+              "placeId": "ChIJQVXqt87dsUcRggf9wXUzmvg",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "media": {
@@ -996,12 +997,12 @@
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
-          "text1": "319 Clematis St.  Suite 100",
+          "text1": "Ritterstraße 51 21335 Lüneburg<br>  ",
           "text2": "<a href=\"mailto:sample@sample.com\">sample@sample.com</a>",
           "text3": "<a href=\"tel:+138 (095) 6526 538\">+138 (095) 6526 538</a>",
           "form": {
             "title": "MESSAGE",
-            "action": "cnvex@gmx.de",
+            "action": "radkombinat@posteo.de",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1017,13 +1018,13 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Telefon"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Nachricht"
               }
             }
           },
@@ -1046,7 +1047,7 @@
             "showTitle": false,
             "showText": false,
             "autoplay": true,
-            "timeout": "1",
+            "timeout": "3",
             "paddingTop": 2,
             "paddingBottom": "1",
             "showArrows": true,
@@ -1066,7 +1067,7 @@
             "visibleSlides": "6",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/logo-campagnolo-235x51.png",
@@ -1078,7 +1079,7 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/bianchi-logo-2717x413.jpg",
