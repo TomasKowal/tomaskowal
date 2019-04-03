@@ -333,7 +333,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Räder im Shop",
-          "text": "<i>(Keine Gewehr - erkundigt Euch bitte im Shop)</i>",
+          "text": "<i>(Keine Gewehr - erkundigt Euch bitte &nbsp;vor Ort)</i>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -913,7 +913,7 @@
               "font-size": "48px"
             },
             ".mbr-section-title B": {
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_params": {
