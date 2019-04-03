@@ -18,7 +18,8 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
-        "#d901ed"
+        "#d901ed",
+        "#e0e0e0"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -30,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -906,14 +907,14 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
-            "showArrows": true,
-            "showBullets": true,
+            "paddingBottom": "1",
+            "showArrows": false,
+            "showBullets": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -929,7 +930,7 @@
             "visibleSlides": "6",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/logo-campagnolo-235x51.png",
@@ -941,7 +942,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/bianchi-logo-2717x413.jpg",
@@ -1004,47 +1005,14 @@
           },
           "title": "Our clients",
           "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "arrowLeft": "@THEME_PATH@/components/_images/slider/arrow-left-white.svg",
+          "arrowRight": "@THEME_PATH@/components/_images/slider/arrow-right-white.svg",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
           "_name": "slider6",
-          "_anchor": "slider6-2f"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".mbr-section-title I": {
-              "font-size": "48px"
-            },
-            ".mbr-section-title B": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-1846-1136x640.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
-          },
-          "text": "<b>Folge<i>!</i></b>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social2",
-          "_anchor": "social2-1z"
+          "_anchor": "slider6-2g"
         },
         {
           "_params": {
@@ -1137,39 +1105,112 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "showTitle": false,
+            "showText": false,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "showArrows": false,
+            "showBullets": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/social.jpg",
-            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e0e0e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#000",
             "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": true,
-            "odnoklassniki": true
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-campagnolo-235x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/bianchi-logo-2717x413.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-milaneli-184x98.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/vkmlogonew2-451x98.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/dancelli-logo-3-1089x172.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-colnago-cicli-corsa-2000x415.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ]
           },
-          "text": "<span style=\"font-size: 46px;\"><b>Teile<i>!</i></b></span>",
+          "title": "Our clients",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "arrowLeft": "@THEME_PATH@/components/_images/slider/arrow-left-white.svg",
+          "arrowRight": "@THEME_PATH@/components/_images/slider/arrow-right-white.svg",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "social1",
-          "_anchor": "social1-1d",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-size": "36px",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            ".mbr-section-title B": {
-              "font-size": "46px"
-            }
-          }
+          "_name": "slider6",
+          "_anchor": "slider6-2f"
         },
         {
           "_params": {
