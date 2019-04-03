@@ -1,6 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
 
 
 
@@ -631,17 +635,34 @@ a:hover,
 }
 #title4-1s I {
   font-size: 36px;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #title4-1s H1 {
   font-size: 46px;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
 }
 #title4-1s P {
   font-size: 17px;
 }
+#text1-2e H3 {
+  text-align: center;
+  font-size: 36px;
+  color: #222222;
+  font-family: 'PT Sans', sans-serif;
+}
+#text1-2e P {
+  text-align: center;
+  font-size: 18px;
+}
+#text1-2e I {
+  color: #222222;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 18px;
+}
 #text1-m H3 {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
@@ -655,7 +676,7 @@ a:hover,
 }
 #text1-n H3 {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
@@ -669,7 +690,7 @@ a:hover,
 }
 #text1-16 H3 {
   text-align: left;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
@@ -682,7 +703,7 @@ a:hover,
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #news2-20 H3 {
-  font-size: 32px;
+  font-size: 30px;
   text-align: left;
 }
 #news2-20 H5 {
@@ -709,7 +730,7 @@ a:hover,
 }
 #text1-2h H3 {
   text-align: left;
-  font-size: 46px;
+  font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }

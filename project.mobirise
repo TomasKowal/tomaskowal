@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 86,
+    "uniqCompNum": 87,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119-1.png",
@@ -153,7 +153,7 @@
             "paddingBottom": 3,
             "showBullets": false,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "2",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/shop-rad4-5-800x1200.jpg",
@@ -259,29 +259,29 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "showTitle": false,
             "showSeparator": false,
             "showSubtitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "Willkommen im Radkombinat<i>!</i>",
+          "title": "<br><br>Willkommen!",
           "subtitle": "Subtitle",
-          "text": "<b>Wir sind an folgenden Tagen für Euch am Start:</b><br><br>Mo.-Fr. von 14..",
+          "text": "<b>&nbsp;</b><br><b><br></b><br><br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -292,16 +292,67 @@
           "_styles": {
             "I": {
               "font-size": "36px",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "H1": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "text-align": "right",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
               "font-size": "17px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/12_header-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#e5e5e5",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Willkommen im Radkombinat!",
+          "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Wir sind an folgenden Tagen für Euch</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>am Start:</i></font><br><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Mo. - Fr. von 14.00 bis 19.00 Uhr</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>sowie</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>...</i></font>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "36px",
+              "color": "#222222",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            "I": {
+              "color": "#222222",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "text1-2e"
         },
         {
           "_params": {
@@ -348,7 +399,7 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Räder im Kombinat",
+          "title": "Räder im Kombinat<i>!</i>",
           "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Keine Gewehr - Erkundigt Euch vor Ort!</i></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -360,7 +411,7 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -560,7 +611,7 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -701,8 +752,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
@@ -730,7 +781,7 @@
           "_styles": {
             "H3": {
               "text-align": "left",
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -748,8 +799,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showTitle": true,
             "showSubtitle": true,
             "showText": true,
@@ -790,7 +841,7 @@
             }
           },
           "date2": "09/09/2016",
-          "title3": "KOMPETENTER SERVICE<br><br><br>",
+          "title3": "KOMPETENTER SERVICE<br><br>",
           "subtitle3": "<a href=\"http://mobirise.com\" class=\"text-warning\">s</a>tyler",
           "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
           "media3": {
@@ -819,7 +870,7 @@
           "_anchor": "news2-20",
           "_styles": {
             "H3": {
-              "font-size": "32px",
+              "font-size": "30px",
               "text-align": "left"
             },
             "H5": {
@@ -872,7 +923,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "showTitle": true,
             "showSubtitle": true,
             "showButtons": false,
@@ -960,7 +1011,7 @@
           "_styles": {
             "H3": {
               "text-align": "left",
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
@@ -979,7 +1030,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": 2,
             "showTitle": true,
             "showText": true,
