@@ -259,8 +259,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "showTitle": false,
             "showSeparator": false,
             "showSubtitle": false,
