@@ -34,7 +34,7 @@
     "uniqCompNum": 92,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119-1.png",
     "noImageResize": "",
     "siteUrl": "undefined",
     "cookiesAlert": "",
