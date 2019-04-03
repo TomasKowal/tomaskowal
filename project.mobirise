@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 95,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119-1.png",
@@ -107,6 +107,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#222!important"
+            },
+            "A": {
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -380,7 +383,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/idap7643-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/oota0658-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -390,7 +393,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/lxpr7871-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/humt8225-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -400,7 +403,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ndot1433-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/cwxm5020-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -410,7 +413,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/oota0658-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/eggf9876-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -420,7 +423,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/rujf5044-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/gvjb9699-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -430,7 +433,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-134-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/bckb0380-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -440,7 +443,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-144-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/ndot1433-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -450,27 +453,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-152-1024x768.png",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-177-1024x768.png",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-179-copy-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/idap7643-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -494,9 +477,9 @@
             "customSize": false,
             "customWidth": "1600",
             "customHeight": "900",
-            "size": "1024x768",
+            "size": "1024x576",
             "width": "1024",
-            "height": "768"
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -560,7 +543,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/azbi3029-1-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/csyj4371-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -570,7 +553,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bckb0380-2-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/azbi3029-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -580,7 +563,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/lxpr7871-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -590,7 +573,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/csyj4371-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/hjbs9392-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -600,7 +583,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/cwxm5020-3-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/gcbi2586-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -610,7 +593,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-105-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/rujf5044-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -620,37 +603,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-120-1024x768.png",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-121-1024x768.png",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-131-1024x768.png",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-134-1024x768.png",
+                "image": "@PROJECT_PATH@/assets/images/bmdk1749-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -674,9 +627,9 @@
             "customSize": false,
             "customWidth": "1600",
             "customHeight": "900",
-            "size": "1024x768",
+            "size": "1024x576",
             "width": "1024",
-            "height": "768"
+            "height": "576"
           },
           "articleLayout": false,
           "alias": "wowslider",

@@ -626,6 +626,9 @@ a:hover,
 #menu4-2m .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+#menu4-2m A {
+  font-size: 23px;
+}
 #title4-1s I {
   font-size: 36px;
   font-family: 'PT Sans', sans-serif;
