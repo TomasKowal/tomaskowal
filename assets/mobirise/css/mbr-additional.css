@@ -16,8 +16,6 @@
 
 
 
-
-
 /*TITLE*/
 .alert,
 h1,
@@ -728,20 +726,6 @@ a:hover,
 #header3-1n P {
   color: #222222;
   text-align: left;
-}
-#text1-2h H3 {
-  text-align: left;
-  font-size: 36px;
-  color: #222222;
-  font-family: 'PT Sans', sans-serif;
-}
-#text1-2h P {
-  text-align: left;
-}
-#text1-2h I {
-  font-size: 18px;
-  color: #222222;
-  font-family: 'PT Sans Narrow', sans-serif;
 }
 #contacts1-1c H1 {
   color: #222222;

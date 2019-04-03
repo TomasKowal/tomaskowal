@@ -325,7 +325,7 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Willkommen im Radkombinat!",
+          "title": "Willkommen im Radkombinat",
           "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Wir sind an folgenden Tagen für Euch</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>am Start:</i></font><br><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Mo. - Fr. von 14.00 bis 19.00 Uhr</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>sowie</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>...</i></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -399,7 +399,7 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Räder im Kombinat<i>!</i>",
+          "title": "Räder im Kombinat",
           "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Keine Gewehr - Erkundigt Euch vor Ort!</i></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -981,53 +981,6 @@
               "text-align": "left"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/header_crew-1-1200x800.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#e5e5e5",
-            "overlayOpacity": "0.2"
-          },
-          "title": "Und hier sind wir zu finden ...",
-          "text": "<i>(...und nich!!)</i>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_styles": {
-            "H3": {
-              "text-align": "left",
-              "font-size": "36px",
-              "color": "#222222",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "I": {
-              "font-size": "18px",
-              "color": "#222222",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
-            }
-          },
-          "_anchor": "text1-2h"
         },
         {
           "_params": {
