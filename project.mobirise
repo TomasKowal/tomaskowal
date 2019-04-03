@@ -259,7 +259,7 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "showTitle": false,
             "showSeparator": false,
