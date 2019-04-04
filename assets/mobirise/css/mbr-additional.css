@@ -628,47 +628,55 @@ a:hover,
 #menu4-2m A {
   font-size: 23px;
 }
-#text1-2e H3 {
-  text-align: center;
+#slider3-1 H1 {
+  color: #000000;
+}
+#text1-2f H3 {
+  text-align: left;
   font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
-#text1-2e P {
-  text-align: center;
-  font-size: 18px;
+#text1-2f P {
+  text-align: left;
+  font-size: 21px;
 }
-#text1-2e I {
+#text1-2f I {
   color: #222222;
   font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 36px;
+}
+#text1-2f B {
+  color: #757575;
 }
 #text1-m H3 {
-  text-align: center;
+  text-align: left;
   font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
 #text1-m P {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #text1-m I {
   color: #222222;
   font-family: 'PT Sans Narrow', sans-serif;
 }
+#text1-m B {
+  color: #757575;
+}
 #text1-n H3 {
-  text-align: center;
+  text-align: left;
   font-size: 36px;
   color: #222222;
   font-family: 'PT Sans', sans-serif;
 }
 #text1-n P {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #text1-n I {
-  color: #222222;
+  color: #757575;
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #text1-16 H3 {
@@ -714,7 +722,7 @@ a:hover,
 }
 #contacts1-1c H1 {
   color: #222222;
-  font-size: 30px;
+  font-size: 36px;
 }
 
 #menu2-q .hide-buttons .nav-btn {

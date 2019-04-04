@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119-1.png",
@@ -114,7 +114,7 @@
           },
           "_params": {
             "logo": true,
-            "sticky": false,
+            "sticky": true,
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.6",
@@ -235,10 +235,10 @@
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Website <em>Maker</em>",
+                "title": "<br>Willkommen im Radkominat<i>!</i>",
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit porro doloremque sapiente qui repudiandae natus iste consequuntur labore ipsum, id nulla fuga accusantium explicabo illum.",
@@ -255,12 +255,17 @@
             "Theme"
           ],
           "_name": "slider3",
-          "_anchor": "slider3-1"
+          "_anchor": "slider3-1",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "showTitle": true,
             "showText": true,
             "bgImageRadio": true,
@@ -273,11 +278,11 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#e5e5e5",
+            "overlayOpacity": "0.2"
           },
-          "title": "Willkommen im Radkombinat<i>!</i>",
-          "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Wir sind an folgenden Tagen für Euch</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>am Start:</i></font><br><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Mo. - Fr. von 14.00 bis 19.00 Uhr</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>sowie</i></font><br><font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>...</i></font>",
+          "title": "<br>Wir sind an folgenden Tagen<br>für Euch am Start:",
+          "text": "<b>Mo. - Fr. von 14.00 bis 19.00 Uhr \n<br>sowie \n<br>...</b><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -286,31 +291,33 @@
           "_name": "text1",
           "_styles": {
             "H3": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "text-align": "center",
-              "font-size": "18px"
+              "text-align": "left",
+              "font-size": "21px"
             },
             "I": {
               "color": "#222222",
               "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "font-size": "36px"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            },
+            "B": {
+              "color": "#757575"
             }
           },
-          "_anchor": "text1-2e"
+          "_anchor": "text1-2f"
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
@@ -334,14 +341,14 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/12_header-1-1920x1280.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -350,8 +357,8 @@
             "overlayColor": "#e5e5e5",
             "overlayOpacity": "0.2"
           },
-          "title": "Räder im Kombinat",
-          "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><i>Keine Gewehr - Erkundigt Euch vor Ort!</i></font>",
+          "title": "Auswahl an Rädern im Kombinat",
+          "text": "<font color=\"#222222\" face=\"PT Sans Narrow, sans-serif\"><b><i>Keine Gewehr - Erkundigt Euch vor Ort!</i></b></font>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -361,20 +368,23 @@
           "_anchor": "text1-m",
           "_styles": {
             "H3": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "18px"
             },
             "I": {
               "color": "#222222",
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            },
+            "B": {
+              "color": "#757575"
             }
           }
         },
@@ -534,14 +544,14 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/robin-2-1920x1215.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#e0e0e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -551,7 +561,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Erfolgreich vermittelte Velos",
-          "text": "<i>Finde Dein´s!</i><br>",
+          "text": "<b><i>Finde Dein´s!</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -561,18 +571,18 @@
           "_anchor": "text1-n",
           "_styles": {
             "H3": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "36px",
               "color": "#222222",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "18px"
             },
             "I": {
-              "color": "#222222",
+              "color": "#757575",
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
@@ -612,7 +622,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bmdk1749-1238x696.png",
@@ -672,7 +682,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
@@ -707,11 +717,11 @@
             "paddingBottom": "1",
             "showTitle": true,
             "showText": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/header_crew-1-1200x800.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#e0e0e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -750,7 +760,7 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "showTitle": true,
             "showSubtitle": true,
@@ -792,7 +802,7 @@
             }
           },
           "date2": "09/09/2016",
-          "title3": "KOMPETENTER SERVICE<br><br>",
+          "title3": "KOMPETENTER<br>SERVICE<br><br>",
           "subtitle3": "<a href=\"http://mobirise.com\" class=\"text-warning\">s</a>tyler",
           "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
           "media3": {
@@ -840,10 +850,10 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -939,18 +949,18 @@
             "paddingBottom": 2,
             "showTitle": true,
             "showText": true,
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75,
+            "overlayColor": "#e5e5e5",
+            "overlayOpacity": "0.2",
             "googleMap": {
               "address": "Ritterstraße 51 21335 Lüneburg ",
               "placeId": "ChIJQVXqt87dsUcRggf9wXUzmvg",
@@ -1019,7 +1029,7 @@
           "_styles": {
             "H1": {
               "color": "#222222",
-              "font-size": "30px"
+              "font-size": "36px"
             }
           }
         },
@@ -1033,10 +1043,10 @@
             "paddingBottom": "1",
             "showArrows": true,
             "showBullets": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#e0e0e0",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1048,7 +1058,7 @@
             "visibleSlides": "6",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/logo-campagnolo-235x51.png",
@@ -1060,7 +1070,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/bianchi-logo-2717x413.jpg",
@@ -1329,7 +1339,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
