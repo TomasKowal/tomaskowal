@@ -549,7 +549,7 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "animType": "basic_linear",
             "theme": "absent",
             "slides": [
@@ -759,7 +759,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/timobikes-2016-131-1216x684.png",
@@ -819,7 +819,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/timo-bikes-179-copy-1158x651.png",
