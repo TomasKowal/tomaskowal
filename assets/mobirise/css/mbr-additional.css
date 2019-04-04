@@ -1063,7 +1063,6 @@ body {
 }
 .cid-rmEjqqtwhl .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-rmEjqqtwhl a.nav-link {
   display: flex;
@@ -1093,18 +1092,6 @@ body {
 .cid-rmEjqqtwhl .dropdown-item:hover,
 .cid-rmEjqqtwhl .icons-menu .mbr-iconfont:hover {
   color: #c1c1c1 !important;
-}
-.cid-rmF7t2unhz {
-  background-image: url("../../../assets/images/bmx-wc-2012-logo9-2000x732.jpg");
-}
-.cid-rmF7t2unhz .mbr-section-title {
-  letter-spacing: .1em;
-}
-.cid-rmF7t2unhz .mbr-text {
-  letter-spacing: 0.03rem;
-}
-.cid-rmF7t2unhz .card-img span {
-  font-size: 100px;
 }
 .cid-rmBJV3AJFw {
   padding-top: 90px;
