@@ -1,27 +1,30 @@
 {
   "settings": {
-    "name": "Site-04-08_1353",
+    "name": "Site-04-08_1408",
     "currentPage": "index.html",
     "theme": {
-      "name": "spacem",
-      "title": "SpaceM",
+      "name": "colorm",
+      "title": "ColorM",
       "styling": {
-        "primaryColor": "#D901ED",
-        "secondaryColor": "#46004C",
-        "successColor": "#2BE080",
-        "infoColor": "#1A5CEB",
-        "warningColor": "#E0C119",
-        "dangerColor": "#EB5A1A",
-        "titleFont": "Arapey",
-        "subtitleFont": "Lato",
-        "textFont": "Lato",
-        "isRoundedButtons": true
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
       }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 4,
+    "uniqCompNum": 13,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -44,63 +47,66 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#989898"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#989898"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#989898"
+              "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.875rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.948rem"
             },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#222"
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#1a242f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#273646!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
+              "background": "#2c3e50"
             },
             ".bg-color.transparent .link": {
-              "color": "#989898",
+              "color": "#ffffff",
               "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#989898"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
             },
             ".bg-color.transparent.opened .link": {
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#222"
+              "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
+              "color": "#f39c12!important"
             }
           },
           "_params": {
             "logo": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#fff",
-            "fontSize": 0.75,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#2c3e50",
+            "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#989898",
-            "fontHoverColor": "#222"
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Tutorials</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -108,177 +114,223 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "alias": "spacem/components",
+          "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "menu4",
-          "_anchor": "menu4-0"
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#2c3e50",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Mobirise<br>Website<br>Builder",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
+                "contentAlign": "center",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
+                "contentAlign": "left",
+                "active": false,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Multi <em>Homepages</em>",
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDE",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi dignissimos temporibus, voluptates laborum vel molestiae delectus velit ad quisquam.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+                "overlayOpacity": "0.2",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide1.jpg",
+                "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
+                "contentAlign": "right",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
+                "contentAlign": "right",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Modern <em>Design</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, blanditiis culpa. Beatae quos fuga qui perferendis quod, cumque vero expedita!",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
+                "contentAlign": "left",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Made for <em>You</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas iste, dicta aliquid asperiores natus tenetur expedita. Laborum a aliquid ratione.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide4.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Website <em>Maker</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "IMAGE SLIDE",
+                "overlay": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
+          "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider1",
-          "_anchor": "slider1-1"
+          "_name": "slider",
+          "_anchor": "slider-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-6"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#ecf0f1"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-8"
         },
         {
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide5.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "<em>SpaceM</em> Theme",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, nesciunt vitae cum tempore, rem repudiandae adipisci libero ratione illum! Veniam placeat autem corporis sapiente doloribus.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide6.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Modern <em>Design</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam tenetur repellat veniam enim sed molestiae dolorum eum, iusto aspernatur quos earum obcaecati, ratione dolorem fuga.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide7.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Made for <em>You</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam illum, adipisci autem provident ut. Ex eius voluptates, nihil accusantium optio tenetur sit quam eaque eum.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/header1-slide8.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Website <em>Maker</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa natus vero voluptatibus, at, alias eaque aliquam dolores omnis velit reprehenderit beatae aperiam ipsum similique.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_anchor": "slider2-2"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "kenburns",
-            "theme": "boundary",
+            "animType": "basic",
+            "theme": "absent",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
@@ -296,7 +348,8 @@
                 "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
                 "title": "title 2",
-                "text": "text 2"
+                "text": "text 2",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
@@ -312,8 +365,8 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "1",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",
@@ -332,7 +385,222 @@
             "Erweiterung"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-3"
+          "_anchor": "wowslider-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-9"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "animType": "basic",
+            "theme": "absent",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
+                "title": "title 1",
+                "text": "text 1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3"
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 2,
+            "duration": 2,
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Erweiterung"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-c"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-b"
         }
       ]
     }
