@@ -24,7 +24,7 @@
         "display4Font": "PT Sans Caption",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "arrowColor": "#444444"
       },
@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
       }
     ],
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -459,16 +459,6 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-10-1200x800.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-25-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
@@ -477,6 +467,16 @@
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-10-1200x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-48-1200x800.jpg",
