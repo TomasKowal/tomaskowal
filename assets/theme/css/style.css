@@ -9,6 +9,10 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+div, span, h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li,
+figcaption, textarea, input, .display-1, .display-2 {
+  font: inherit; }
+
 section {
   background-color: #eeeeee; }
 
@@ -486,14 +490,18 @@ animation: gradient-animation 4s infinite alternate;
 .justify-content-center {
   -webkit-justify-content: center; }
 
-.card-wrapper {
-  -webkit-box-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
-  -webkit-flex: 1; }
+.carousel-controls {
+  display: -webkit-flex; }
+
+.media {
+  display: -webkit-flex; }
+
+.form-control {
+  height: 100%;
+  padding: .375rem .75rem; }
 
 .jq-selectbox__select {
-  padding: 1.07em .5em;
+  padding: .375rem .75rem;
   position: absolute;
   top: 0;
   left: 0;
@@ -509,6 +517,6 @@ animation: gradient-animation 4s infinite alternate;
   transform: translateY(-50%); }
 
 .jq-selectbox li {
-  padding: 1.07em .5em; }
+  padding: .375rem .75rem; }
 
 /*# sourceMappingURL=style.css.map */
