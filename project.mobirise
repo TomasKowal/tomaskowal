@@ -33,7 +33,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -300,13 +300,13 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -412,13 +412,13 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -593,13 +593,13 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -794,13 +794,13 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -891,7 +891,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -938,7 +938,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
