@@ -513,9 +513,6 @@ textarea,
 .mbr-gallery-filter li:hover {
   color: #f39c12;
 }
-.scrollToTop_wraper {
-  display: none;
-}
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
@@ -783,7 +780,7 @@ blockquote {
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #333333!important;
+  color: #f39c12!important;
 }
 #content5-1c .mbr-section-title {
   color: #000000;
@@ -793,12 +790,6 @@ blockquote {
 #content5-1c P {
   color: #000000;
   text-align: left;
-}
-#features6-z .lead {
-  color: #9fa3a7;
-}
-#features6-z .mbr-section-subtitle {
-  text-transform: uppercase;
 }
 #content5-1d .mbr-section-title {
   color: #000000;
@@ -829,18 +820,22 @@ blockquote {
 }
 #content4-13 P {
   text-align: left;
+  font-size: 21px;
 }
 #content1-m P {
   text-align: left;
 }
-#content5-1a .mbr-section-title {
+#content5-1n .mbr-section-title {
   color: #000000;
   font-size: 36px;
   text-align: left;
 }
-#content5-1a P {
+#content5-1n P {
   color: #000000;
   text-align: left;
+}
+#contacts3-1k .form-control-label {
+  color: undefined;
 }
 #footer2-1b .mbr-section-text {
   color: #fff;
