@@ -33,7 +33,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 48,
+    "uniqCompNum": 52,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -297,48 +297,42 @@
           "_anchor": "wowslider-f"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            },
-            "H1": {
-              "font-size": "36px"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "1",
+            "showCaption": true,
+            "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#433c5e",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#b98eb1",
-            "bgTextSize": 250,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
           },
-          "title": "Willkommen im Radkombinat",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "colorm/components",
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "animated-bg1",
-          "_anchor": "animated-bg1-v"
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-1c"
         },
         {
           "_styles": {
@@ -415,52 +409,42 @@
           "_anchor": "features6-z"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            },
-            "H1": {
-              "font-size": "36px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#333333"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#433c5e",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#b98eb1",
-            "bgTextSize": 250,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
           },
-          "title": "Willkommen im Radkombinat",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "colorm/components",
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "animated-bg1",
-          "_anchor": "animated-bg1-w"
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-1d"
         },
         {
           "_params": {
@@ -606,52 +590,42 @@
           "_anchor": "wowslider-a"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            },
-            "H1": {
-              "font-size": "36px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#333333"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#433c5e",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#b98eb1",
-            "bgTextSize": 250,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
           },
-          "title": "Willkommen im Radkombinat",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "colorm/components",
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "animated-bg1",
-          "_anchor": "animated-bg1-x"
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-1e"
         },
         {
           "_params": {
@@ -817,52 +791,42 @@
           "_anchor": "wowslider-j"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            },
-            "H1": {
-              "font-size": "36px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#333333"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#ffffff",
-            "bgTextSize": 250,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
           },
-          "title": "Willkommen im Radkombinat",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt,",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "colorm/components",
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "animated-bg1",
-          "_anchor": "animated-bg1-y"
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content5-1f"
         },
         {
           "_params": {

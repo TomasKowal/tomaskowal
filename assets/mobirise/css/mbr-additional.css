@@ -785,13 +785,14 @@ blockquote {
 #menu-7 .dropdown-item[aria-expanded="true"] {
   color: #333333!important;
 }
-#animated-bg1-v .display-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 40px;
-}
-#animated-bg1-v H1 {
+#content5-1c .mbr-section-title {
+  color: #000000;
   font-size: 36px;
+  text-align: left;
+}
+#content5-1c P {
+  color: #000000;
+  text-align: left;
 }
 #features6-z .lead {
   color: #9fa3a7;
@@ -799,41 +800,32 @@ blockquote {
 #features6-z .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#animated-bg1-w .display-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 40px;
-}
-#animated-bg1-w H1 {
-  font-size: 36px;
+#content5-1d .mbr-section-title {
   color: #000000;
-}
-#animated-bg1-w P {
-  color: #333333;
-}
-#animated-bg1-x .display-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 40px;
-}
-#animated-bg1-x H1 {
   font-size: 36px;
+  text-align: left;
+}
+#content5-1d P {
   color: #000000;
+  text-align: left;
 }
-#animated-bg1-x P {
-  color: #333333;
-}
-#animated-bg1-y .display-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 40px;
-}
-#animated-bg1-y H1 {
+#content5-1e .mbr-section-title {
+  color: #000000;
   font-size: 36px;
-  color: #000000;
+  text-align: left;
 }
-#animated-bg1-y P {
-  color: #333333;
+#content5-1e P {
+  color: #000000;
+  text-align: left;
+}
+#content5-1f .mbr-section-title {
+  color: #000000;
+  font-size: 36px;
+  text-align: left;
+}
+#content5-1f P {
+  color: #000000;
+  text-align: left;
 }
 #content4-13 P {
   text-align: left;
