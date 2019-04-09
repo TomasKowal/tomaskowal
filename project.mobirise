@@ -111,7 +111,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#666666",
             "fontSize": "1",
@@ -157,20 +157,10 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ikzv6030-2000x3000.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1854-1136x640.png",
+                "image": "@PROJECT_PATH@/assets/images/1-header-1920x1279.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -180,7 +170,67 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/oekx6452-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-header-1920x1280.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -969,7 +1019,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#666666",
             "fontSize": "1",
