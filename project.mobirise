@@ -150,7 +150,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/6-best-of-1370x770.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-header-1920x1279.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -160,7 +160,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/7-best-of-1332x749.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -170,7 +170,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad1-3-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -180,7 +180,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad2-2-384x683.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -190,7 +190,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad3-3-608x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -200,7 +200,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad3-4-610x1085.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -210,7 +210,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad3-5-675x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -220,7 +220,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad3-7-675x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-header-kleinklein-1024x683.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -230,17 +230,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad4-2-674x1200.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad4-3-1012x1800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-header-1920x1280.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -329,7 +319,7 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=F_Qw1NNZXFI",
               "autoplay": false,
               "loop": false
             }
