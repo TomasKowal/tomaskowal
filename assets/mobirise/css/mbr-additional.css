@@ -806,6 +806,10 @@ blockquote {
 }
 #animated-bg1-w H1 {
   font-size: 36px;
+  color: #000000;
+}
+#animated-bg1-w P {
+  color: #333333;
 }
 #animated-bg1-x .display-1 {
   font-weight: 700;
@@ -814,6 +818,10 @@ blockquote {
 }
 #animated-bg1-x H1 {
   font-size: 36px;
+  color: #000000;
+}
+#animated-bg1-x P {
+  color: #333333;
 }
 #animated-bg1-y .display-1 {
   font-weight: 700;
@@ -822,6 +830,10 @@ blockquote {
 }
 #animated-bg1-y H1 {
   font-size: 36px;
+  color: #000000;
+}
+#animated-bg1-y P {
+  color: #333333;
 }
 #content4-13 P {
   text-align: left;
