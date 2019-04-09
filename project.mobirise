@@ -148,7 +148,7 @@
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-171-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -158,7 +158,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-174-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -168,7 +168,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-128-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -178,7 +178,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-172-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -188,7 +188,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-125-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -198,7 +198,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-127-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -208,7 +208,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-167-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -218,7 +218,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-170-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -232,8 +232,8 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "3",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",
@@ -242,9 +242,9 @@
             "customSize": false,
             "customWidth": "1600",
             "customHeight": "1080",
-            "size": "1024x576",
+            "size": "1024x768",
             "width": "1024",
-            "height": "576"
+            "height": "768"
           },
           "articleLayout": false,
           "alias": "wowslider",
@@ -270,7 +270,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
@@ -388,7 +388,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
@@ -575,7 +575,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
@@ -602,26 +602,6 @@
           ],
           "_name": "animated-bg1",
           "_anchor": "animated-bg1-x"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By <b>John Smith</b> posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-i"
         },
         {
           "_params": {
@@ -802,7 +782,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
@@ -832,8 +812,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks.</p>",
@@ -851,8 +831,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -870,8 +850,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgColor": "#ffffff"
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
@@ -887,7 +867,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
