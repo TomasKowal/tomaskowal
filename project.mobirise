@@ -369,7 +369,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -555,7 +555,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -787,7 +787,7 @@
         {
           "_inherit": "features4",
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
