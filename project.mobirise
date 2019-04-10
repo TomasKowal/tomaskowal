@@ -173,54 +173,13 @@
           "_anchor": "header1-19"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "center"
-            },
-            ".lead P": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-1b-1809x1206.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Willkommen!<br><br>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-r"
-        },
-        {
           "_params": {
             "autoplay": true,
             "animType": "basic_linear",
             "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-171-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rume-radkombinat-gro-fr-druck-adobergb-5-2000x1333.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -230,7 +189,7 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-174-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-11-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -240,7 +199,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-128-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-29-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -250,7 +209,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-172-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-32-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -260,7 +219,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-125-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-23-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -270,7 +229,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timobikes-2016-127-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-25-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -280,7 +239,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-167-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-40-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -290,7 +249,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timo-bikes-170-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2018-02-22-reportage-radkombinat-lneburg-48-1200x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
@@ -325,6 +284,48 @@
           ],
           "_name": "wowslider",
           "_anchor": "wowslider-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "84px"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-1b-1809x1206.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Willkommen!<br><br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r"
         },
         {
           "_params": {
@@ -374,10 +375,10 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-2000x1333.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk_banner%20v3%2072ppi-2000x1333.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -560,10 +561,10 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-2000x1333.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk_banner%20v3%2072ppi-2000x1333.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
