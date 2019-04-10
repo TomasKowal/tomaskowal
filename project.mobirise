@@ -135,7 +135,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/jjke2288-2000x3000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -150,20 +150,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/shop-rad3-3-800x1200.jpg",
                 "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Website <em>Maker</em>",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus optio a fuga aliquam ducimus, natus eligendi. Reprehenderit illum, et magnam.",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shop-rad4-5-800x1200.jpg",
-                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -308,7 +294,7 @@
             }
           },
           "title": "<em>SpaceM</em> Website Builder",
-          "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, totam sit! Ut perspiciatis sint minima, a, consequatur maxime minus neque voluptatem laborum distinctio amet. Ea deleniti sed, commodi aperiam! Harum excepturi ipsa temporibus sit, natus illum expedita officiis doloribus a aspernatur",
+          "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum,&nbsp;",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
