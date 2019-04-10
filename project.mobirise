@@ -205,7 +205,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Willkommen!",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
