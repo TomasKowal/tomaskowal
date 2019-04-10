@@ -147,35 +147,6 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-v23-1980x1320.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-19"
-        },
-        {
-          "_params": {
             "autoplay": true,
             "animType": "basic_linear",
             "theme": "absent",
@@ -1069,7 +1040,7 @@
             "timeout": 5,
             "paddingTop": 2,
             "paddingBottom": 1,
-            "showArrows": true,
+            "showArrows": false,
             "showBullets": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
