@@ -108,7 +108,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": false,
             "sticky": false,
@@ -1321,7 +1321,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": false,
             "sticky": false,
