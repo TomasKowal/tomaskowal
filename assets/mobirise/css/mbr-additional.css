@@ -754,6 +754,18 @@ h6,
 #menu-0 .btn {
   font-size: 14px;
 }
+#msg-box8-1h .mbr-section-title,
+#msg-box8-1h p {
+  color: #fff;
+}
+#msg-box8-1h .mbr-section-title {
+  color: #000000;
+  text-align: center;
+  font-size: 46px;
+}
+#msg-box8-1h .lead P {
+  color: #000000;
+}
 #msg-box8-1d .mbr-section-title,
 #msg-box8-1d p {
   color: #fff;
