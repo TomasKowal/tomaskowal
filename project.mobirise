@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
     "noImageResize": "",
@@ -274,14 +274,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Räder im Kombinat",
-          "text": "<p>Article header with background&nbsp;</p>",
+          "title": "Erfolgreich Vermittelt",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1c"
+          "_anchor": "msg-box8-1d"
         },
         {
           "_params": {
