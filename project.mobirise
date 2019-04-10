@@ -254,13 +254,13 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-v2-2000x1333.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-2000x1333.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
@@ -271,8 +271,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Räder im Kombinat",
+          "text": "<p>Article header with background&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -440,13 +440,13 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-v2-2000x1333.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-2000x1333.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
@@ -457,7 +457,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
+          "title": "Erfolgreich Vermittelt",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
