@@ -802,6 +802,13 @@ h6,
 #header3-t .mbr-section-subtitle {
   text-align: left;
 }
+#features4-1a .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1a .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
