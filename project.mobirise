@@ -96,7 +96,7 @@
           },
           "_params": {
             "logo": true,
-            "sticky": true,
+            "sticky": false,
             "transparent": true,
             "bgColor": "#fff",
             "fontSize": "0.75",
