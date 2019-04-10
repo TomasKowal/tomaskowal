@@ -22,6 +22,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 26,
     "versionPublish": "4.9.7"
   },
