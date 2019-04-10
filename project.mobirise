@@ -263,7 +263,7 @@
             "showCaptions": false,
             "hideControls": false,
             "responsive": "3",
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "captionsEffect": "slide",
             "showBullets": false,
@@ -326,7 +326,7 @@
               "size": 250
             }
           },
-          "title": "WILLKOMMEN!",
+          "title": "WILLKOMMEN im RADKOMBINAT!",
           "text": "",
           "_tags": [
             "Theme"
