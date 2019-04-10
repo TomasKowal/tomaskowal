@@ -330,8 +330,8 @@
         {
           "_params": {
             "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "media": {
