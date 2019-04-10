@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 47,
+    "uniqCompNum": 49,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -258,16 +258,16 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-v2-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -278,7 +278,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-16"
+          "_anchor": "msg-box8-1c"
         },
         {
           "_params": {
@@ -444,16 +444,16 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo9-2000x732.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-banner-v3-72ppi-v2-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -670,22 +670,14 @@
           "_anchor": "content1-v"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            }
-          },
+          "_inherit": "features4",
           "_params": {
-            "showImages": false,
+            "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "3",
@@ -693,7 +685,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -705,67 +697,79 @@
           "media1": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "phone",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media2": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media3": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media4": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
           "title1": "Bootstrap 4",
@@ -792,11 +796,8 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-1a"
+          "_name": "features7",
+          "_anchor": "features7-1b"
         },
         {
           "_styles": {
