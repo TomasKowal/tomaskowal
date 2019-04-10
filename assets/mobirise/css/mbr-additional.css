@@ -843,6 +843,12 @@ h6,
 #contacts5-l .mbr-company .list-group-text::after {
   border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
 }
+#contacts5-l H4 {
+  color: #faaf40;
+}
+#contacts5-l STRONG {
+  color: #faaf40;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }

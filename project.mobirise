@@ -805,6 +805,12 @@
             },
             ".mbr-company .list-group-text::after": {
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            },
+            "H4": {
+              "color": "#faaf40"
+            },
+            "STRONG": {
+              "color": "#faaf40"
             }
           },
           "_params": {
@@ -853,10 +859,13 @@
           ],
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/rk-logo-classic-1-265x187-4-246x77.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
