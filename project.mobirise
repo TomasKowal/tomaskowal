@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
     "noImageResize": "",
@@ -286,73 +286,54 @@
           "_anchor": "wowslider-1e"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "84px"
-            },
-            ".lead P": {
-              "color": "#000000"
-            }
-          },
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-1b-1809x1206.png",
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo3-2000x673.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
-          },
-          "title": "Willkommen!<br><br>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-r"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/watch?v=F_Qw1NNZXFI",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "WILLKOMMEN!",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-i"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1f"
         },
         {
           "_styles": {
@@ -373,10 +354,10 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/rk_banner%20v3%2072ppi-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo3-2000x673.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
