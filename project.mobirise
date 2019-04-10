@@ -39,7 +39,10 @@
       }
     ],
     "uniqCompNum": 49,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -188,16 +191,16 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-2-1160x774.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
