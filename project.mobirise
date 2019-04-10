@@ -201,7 +201,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
+          "title": "Willkommen!",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -244,12 +244,12 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "36px"
             },
             ".lead P": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -430,12 +430,12 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "36px"
             },
             ".lead P": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
