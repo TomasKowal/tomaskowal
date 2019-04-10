@@ -372,7 +372,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bmx-wc-2012-logo3-2000x673.jpg",
             "parallax": false,
