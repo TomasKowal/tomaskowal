@@ -803,6 +803,9 @@ h6,
 #header3-t .mbr-section-subtitle {
   text-align: left;
 }
+#extFeatures14-1m P {
+  text-align: left;
+}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
@@ -812,6 +815,9 @@ h6,
   font-size: 36px;
 }
 #header3-u .mbr-section-subtitle {
+  text-align: right;
+}
+#content1-1p P {
   text-align: right;
 }
 #header3-k .mbr-section-title,
