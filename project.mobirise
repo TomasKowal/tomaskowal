@@ -37,7 +37,7 @@
     "uniqCompNum": 43,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/marko-berg-logo-final-v2-4-128x85.png",
+    "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
     "noImageResize": "",
     "siteUrl": "undefined"
   },
@@ -115,7 +115,7 @@
             "transparent": true,
             "bgColor": "#616161",
             "fontSize": 0.8125,
-            "imageSize": 4,
+            "imageSize": "4",
             "fontName": {
               "name": "PT Sans Caption",
               "css": "'PT Sans Caption', sans-serif",
