@@ -17,7 +17,7 @@
         "textFont": "PT Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#ffa322",
@@ -34,7 +34,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 30,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/marko-berg-logo-final-v2-4-128x85.png",
@@ -84,13 +84,13 @@
               "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2d2d2d"
+              "background": "#fffcf6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#252525!important"
+              "background": "#fff7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2d2d2d"
+              "background": "#fffcf6"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -113,7 +113,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#fffcf6",
             "fontSize": 0.8125,
             "imageSize": 4,
             "fontName": {
@@ -125,7 +125,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "#dfd9ca"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -270,7 +270,7 @@
             "Erweiterung"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-t"
+          "_anchor": "wowslider-u"
         },
         {
           "_styles": {
@@ -278,16 +278,16 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
-          "title": "Title with Solid Background Color",
+          "title": "<b>WILLKOMMEN IM RADKOMBINAT</b>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -303,9 +303,9 @@
           },
           "_params": {
             "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#2d2d2d"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fffffd"
           },
           "media": {
             "image": {
@@ -334,15 +334,18 @@
             },
             "H1": {
               "color": "#fffcf6"
+            },
+            "B": {
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
-          "title": "Title with Solid Background Color",
+          "title": "<font color=\"#000000\"><b>RÄDER IM SHOP</b></font>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -475,7 +478,7 @@
             "paddingBottom": 0,
             "captionsEffect": "slide",
             "showBullets": false,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#fffffd",
             "timeout": 2,
             "duration": 2,
             "customSize": false,
@@ -500,21 +503,24 @@
             },
             "H1": {
               "color": "#fffcf6"
+            },
+            "B": {
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
-          "title": "Title with Solid Background Color",
+          "title": "<b>ERFOLGREICH VERMITTELT</b>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-k"
+          "_anchor": "content3-y"
         },
         {
           "_params": {
@@ -661,7 +667,7 @@
             "paddingBottom": 0,
             "captionsEffect": "slide",
             "showBullets": false,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#fffffd",
             "timeout": 2,
             "duration": 2,
             "customSize": false,
@@ -687,29 +693,29 @@
             "H1": {
               "color": "#fffcf6"
             },
-            "P": {
-              "color": "#6b98b3"
+            "B": {
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
-          "title": "Title with Solid Background Color",
+          "title": "<font color=\"#000000\"><b>WAS IHR VON UNS ERWARTEN DÜRFT</b></font>",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-3"
+          "_anchor": "content3-z"
         },
         {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
           "text": "Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "_tags": [
@@ -719,7 +725,7 @@
           "_anchor": "content1-4",
           "_styles": {
             "P": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           }
         },
@@ -733,7 +739,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
-            "bgColor": "#2d2d2d"
+            "bgColor": "#fffffd"
           },
           "media": {
             "image": {
@@ -761,7 +767,7 @@
           "_anchor": "content8-5",
           "_styles": {
             "P": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           }
         },
@@ -773,13 +779,13 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#fffffd",
             "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
           "text": "+1 234 576-89-00",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call us</a> ",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>   ",
           "_tags": [
             "Theme"
@@ -788,21 +794,21 @@
           "_anchor": "share2-9",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           }
         },
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#fffffd",
             "overlay": false,
             "overlayColor": "#f6f7f8",
             "overlayOpacity": 0.5
@@ -831,9 +837,89 @@
           "_styles": {
             ".form-control-label": {},
             ".mbr-section-title": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Send your suggestions",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
+          "form": {
+            "action": "cnvex@gmx.de",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send message</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-14",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-13"
         },
         {
           "_params": {
@@ -847,7 +933,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#2d2d2d",
+            "bgColor": "#424242",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -886,7 +972,7 @@
               "color": "#fff"
             },
             ".footer-header": {
-              "color": "#fffcf6"
+              "color": "#000000"
             }
           }
         }

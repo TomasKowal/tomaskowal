@@ -405,6 +405,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #000;
 }
+.scrollToTop_wraper {
+  display: none;
+}
 /* DirectM */
 a {
   color: #74a3c7;
@@ -557,19 +560,19 @@ a:hover {
 }
 #menu1-0 .link[aria-expanded="true"],
 #menu1-0 .dropdown-menu {
-  background: #2d2d2d;
+  background: #fffcf6;
 }
 #menu1-0 .nav-dropdown-sm .link:focus,
 #menu1-0 .nav-dropdown-sm .link:hover,
 #menu1-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu1-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #252525!important;
+  background: #fff7e7!important;
 }
 #menu1-0 .navbar,
 #menu1-0 .nav-dropdown-sm,
 #menu1-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu1-0 .nav-dropdown-sm .dropdown-menu {
-  background: #2d2d2d;
+  background: #fffcf6;
 }
 #menu1-0 .bg-color.transparent .link {
   color: #000000;
@@ -591,7 +594,7 @@ a:hover {
   text-align: center;
 }
 #content3-i H1 {
-  color: #fffcf6;
+  color: #000000;
 }
 #content3-j .mbr-section-title,
 #content3-j .mbr-section-subtitle {
@@ -600,37 +603,46 @@ a:hover {
 #content3-j H1 {
   color: #fffcf6;
 }
-#content3-k .mbr-section-title,
-#content3-k .mbr-section-subtitle {
+#content3-j B {
+  color: #000000;
+}
+#content3-y .mbr-section-title,
+#content3-y .mbr-section-subtitle {
   text-align: center;
 }
-#content3-k H1 {
+#content3-y H1 {
   color: #fffcf6;
 }
-#content3-3 .mbr-section-title,
-#content3-3 .mbr-section-subtitle {
+#content3-y B {
+  color: #000000;
+}
+#content3-z .mbr-section-title,
+#content3-z .mbr-section-subtitle {
   text-align: center;
 }
-#content3-3 H1 {
+#content3-z H1 {
   color: #fffcf6;
 }
-#content3-3 P {
-  color: #6b98b3;
+#content3-z B {
+  color: #000000;
 }
 #content1-4 P {
-  color: #fffcf6;
+  color: #000000;
 }
 #content8-5 P {
-  color: #fffcf6;
+  color: #000000;
 }
 #share2-9 .mbr-section-title {
-  color: #fffcf6;
+  color: #000000;
 }
 #subscribe1-c .form-control-label {
   color: undefined;
 }
 #subscribe1-c .mbr-section-title {
-  color: #fffcf6;
+  color: #000000;
+}
+#form1-14 .form {
+  background: #fafbfc;
 }
 #footer2-b .footer-list {
   color: #dfd9ca;
@@ -644,5 +656,5 @@ a:hover {
   color: #fff;
 }
 #footer2-b .footer-header {
-  color: #fffcf6;
+  color: #000000;
 }
