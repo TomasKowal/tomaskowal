@@ -34,7 +34,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700"
       }
     ],
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/marko-berg-logo-final-v2-4-128x85.png",
@@ -502,7 +502,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#fffcf6"
+              "color": "#000000"
             },
             "B": {
               "color": "#000000"
@@ -520,7 +520,7 @@
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-y"
+          "_anchor": "content3-15"
         },
         {
           "_params": {
@@ -784,7 +784,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text": "+1 234 576-89-00",
+          "text": "<b>+1 234 576-89-00</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call us</a> ",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>   ",
           "_tags": [
@@ -813,7 +813,7 @@
             "overlayColor": "#f6f7f8",
             "overlayOpacity": 0.5
           },
-          "title": "Subscribe now!",
+          "title": "<b>Subscribe now!</b>",
           "subtitle": "Get notified about new amazing products",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
@@ -864,7 +864,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "Send your suggestions",
+          "title": "<b>Noch Fragen?</b>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
