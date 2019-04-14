@@ -278,7 +278,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showSeparator": true,
             "showSubtitle": false,
@@ -312,8 +312,8 @@
           "_params": {
             "autoplay": false,
             "fullScreen": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
@@ -473,7 +473,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showSeparator": true,
             "showSubtitle": false,
