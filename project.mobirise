@@ -507,7 +507,7 @@
           "_params": {
             "autoplay": false,
             "fullScreen": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showBullets": false,
             "bgColor": "#fff",
