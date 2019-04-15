@@ -615,6 +615,27 @@ a:hover,
 #menu1-0 .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+#slider3-5 H1 {
+  color: #222222;
+  font-size: 72px;
+  text-align: left;
+}
+#slider3-5 SPAN {
+  font-size: 84px;
+}
+#slider3-5 P {
+  color: #222222;
+  text-align: left;
+}
+#header3-s EM {
+  font-size: 36px;
+}
+#header3-s H1 {
+  font-size: 36px;
+}
+#header3-s P {
+  font-size: 21px;
+}
 #news2-b H5 {
   color: #757575;
 }
