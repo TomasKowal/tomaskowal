@@ -36,7 +36,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
       }
     ],
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
@@ -63,13 +63,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#989898"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#989898"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#989898"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -90,11 +90,11 @@
               "background": "#fff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#989898",
               "transition": "none"
             },
             ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#000000"
+              "background": "#989898"
             },
             ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
               "background": "transparent"
@@ -112,18 +112,18 @@
           "_params": {
             "logo": true,
             "sticky": false,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#fff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#989898",
             "fontHoverColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">instagram</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">info@radkombinat.com</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">mobil +49 170 244 563 45</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">info</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"fa fa-facebook-f mbr-iconfont mbr-iconfont-btn\"></span>facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"fa fa-instagram mbr-iconfont mbr-iconfont-btn\"></span>instagram</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">kontakt</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rk-logo-classic-1-265x187-6-246x77.png",
+              "src": "@PROJECT_PATH@/assets/images/rk-visitenkarte-classic-vorne-1-426x123.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -135,8 +135,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "menu1",
-          "_anchor": "menu1-y"
+          "_name": "menu4",
+          "_anchor": "menu4-15"
         },
         {
           "_params": {
@@ -241,7 +241,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rk_logo_nur_hahn%20(1)%202-1630x916.png",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -300,7 +300,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-31-2000x1125.png",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -612,7 +612,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showTitle": true,
             "showSubtitle": true,
@@ -689,6 +689,43 @@
         },
         {
           "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "...sowie den natürlichen Zwang zur Perfektion<i>!</i>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-14",
+          "_styles": {
+            "H3": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -704,7 +741,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.7
           },
-          "title": "Subscribe <em>Form</em>",
+          "title": "Subscribe <em>for Newsletter</em>",
           "form": {
             "action": "cnvex@gmx.de",
             "alerts": {
@@ -776,7 +813,7 @@
             }
           },
           "title": "Noch Fragen?",
-          "text": "Lorem ipsum dolor sit amet, consec tetur adip iscing elit. Curabitur feugiat feugiat and brane in bibendum ",
+          "text": "ÖFFNUNGSZEITEN:<br>Mo. - Di. von 10.00 bis 18.00 Uhr\n<br>sowie &nbsp;Sa. von 10.00 bis 14.00<br>",
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
@@ -818,33 +855,6 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            }
-          },
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/social.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "<span>Follow us</span>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social2",
-          "_anchor": "social2-w"
         },
         {
           "_params": {
