@@ -549,15 +549,15 @@ a:hover,
   color: #ffffff;
 }
 #menu1-y .navbar-toggler {
-  color: #989898;
+  color: #000000;
 }
 #menu1-y .close-icon::before,
 #menu1-y .close-icon::after {
-  background-color: #989898;
+  background-color: #000000;
 }
 #menu1-y .link,
 #menu1-y .dropdown-item {
-  color: #989898;
+  color: #000000;
 }
 #menu1-y .link {
   font-size: 0.75rem;
@@ -589,7 +589,7 @@ a:hover,
   background: #fff;
 }
 #menu1-y .bg-color.transparent .link {
-  color: #989898;
+  color: #000000;
   transition: none;
 }
 #menu1-y .navbar-toggler i,
@@ -598,7 +598,7 @@ a:hover,
 #menu1-y .navbar-toggler em:before,
 #menu1-y .navbar-toggler i:after,
 #menu1-y .navbar-toggler em:after {
-  background: #989898;
+  background: #000000;
 }
 #menu1-y .navbar-toggler[aria-expanded="true"] i,
 #menu1-y .navbar-toggler[aria-expanded="true"] em {

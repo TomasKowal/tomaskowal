@@ -63,13 +63,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#989898"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#989898"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#989898"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -90,11 +90,11 @@
               "background": "#fff"
             },
             ".bg-color.transparent .link": {
-              "color": "#989898",
+              "color": "#000000",
               "transition": "none"
             },
             ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#989898"
+              "background": "#000000"
             },
             ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
               "background": "transparent"
@@ -111,12 +111,12 @@
           },
           "_params": {
             "logo": true,
-            "sticky": true,
-            "transparent": false,
+            "sticky": false,
+            "transparent": true,
             "bgColor": "#fff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#989898",
+            "fontColor": "#000000",
             "fontHoverColor": "#222"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">facebook</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">instagram</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">info@radkombinat.com</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">mobil +49 170 244 563 45</a></li>",
