@@ -300,7 +300,7 @@
               "loop": false
             }
           },
-          "title": "Wir sind zu folgenden Zeiten für Euch am Start",
+          "title": "Wir sind zu folgenden Zeiten<br>für Euch am Start",
           "text": "Mo. - Di. von 10.00 bis 18.00 Uhr\n<br>sowie\n<br>Sa. von 10.00 bis 14.00",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
