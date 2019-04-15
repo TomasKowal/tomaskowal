@@ -36,7 +36,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
       }
     ],
-    "uniqCompNum": 38,
+    "uniqCompNum": 40,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
@@ -232,7 +232,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "showTitle": true,
             "showSeparator": true,
@@ -265,61 +265,29 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "46",
-            "inverse": true,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-header-1920x1279.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
             },
             "video": {
-              "active": true,
               "src": "https://youtu.be/F_Qw1NNZXFI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             }
           },
-          "title": "Wir sind zu folgenden Zeiten<br>für Euch am Start",
-          "text": "Mo. - Di. von 10.00 bis 18.00 Uhr\n<br>sowie\n<br>Sa. von 10.00 bis 14.00",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_styles": {
-            "EM": {
-              "font-size": "36px"
-            },
-            "H1": {
-              "font-size": "21px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "header3-11"
+          "_name": "image2",
+          "_anchor": "image2-13"
         },
         {
           "_params": {
