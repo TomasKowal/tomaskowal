@@ -36,7 +36,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
       }
     ],
-    "uniqCompNum": 35,
+    "uniqCompNum": 38,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
@@ -271,7 +271,7 @@
             "showSubtitle": true,
             "showButtons": false,
             "showMedia": true,
-            "imageSize": 50,
+            "imageSize": "46",
             "inverse": true,
             "parallax": true,
             "bgImageRadio": true,
@@ -308,22 +308,22 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-s",
           "_styles": {
             "EM": {
               "font-size": "36px"
             },
             "H1": {
-              "font-size": "36px"
+              "font-size": "21px"
             },
             "P": {
-              "font-size": "21px"
+              "font-size": "18px"
             }
-          }
+          },
+          "_anchor": "header3-11"
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "showTitle": true,
             "showSeparator": true,
