@@ -275,7 +275,7 @@
               "src": "@THEME_PATH@/components/_images/image2.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=F_Qw1NNZXFI",
+              "src": "https://youtu.be/F_Qw1NNZXFI",
               "autoplay": false,
               "loop": false,
               "active": true
@@ -447,8 +447,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left2.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right3.svg",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -614,8 +614,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left2.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right3.svg",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
