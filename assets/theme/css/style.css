@@ -9,11 +9,6 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
-div, span, h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li,
-figcaption, textarea, input, .display-1, .display-2 {
-  font: inherit;
-}
-
 section {
   background-color: #eeeeee;
 }
@@ -53,7 +48,7 @@ body {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
-.display-1, .display-2, .display-3 {
+.display-1, .display-2, .display-3, .display-4 {
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word;
@@ -218,11 +213,6 @@ figure[mbr-media-size] {
 .card {
   background-color: transparent;
   border: none;
-}
-
-.card-wrapper {
-  flex: 1;
-  -webkit-flex: 1;
 }
 
 .card-img {
@@ -518,7 +508,7 @@ animation: gradient-animation 4s infinite alternate;
 
 @media (max-width: 991px) {
   .menu .navbar-collapse {
-    max-height: 93.5vh;
+    max-height: 94vh;
   }
   .menu .navbar-collapse.show {
     overflow: auto;
@@ -544,14 +534,12 @@ animation: gradient-animation 4s infinite alternate;
   .menu .navbar-toggleable-sm .navbar-collapse {
     display: -webkit-flex !important;
   }
-}
-
-.menu .collapsed .navbar-collapse {
-  max-height: 93.5vh;
-}
-
-.menu .collapsed .navbar-collapse.show {
-  overflow: auto;
+  .menu .collapsed .navbar-collapse {
+    max-height: 94vh;
+  }
+  .menu .collapsed .navbar-collapse.show {
+    overflow: auto;
+  }
 }
 
 .navbar {
@@ -581,24 +569,13 @@ animation: gradient-animation 4s infinite alternate;
   -webkit-justify-content: center;
 }
 
-.carousel-control {
-  display: -webkit-flex;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
+.card-wrapper {
+  flex: 1;
+  -webkit-flex: 1;
 }
 
-.form-inline {
-  display: -webkit-flex;
-  -webkit-align-items: center;
-}
-
-@media (max-width: 576px) {
-  .col-xs-3 {
-    flex: 0 0 25%;
-    max-width: 25%;
-    padding-left: 0;
-    padding-right: 0;
-  }
+.form-group:focus {
+  outline: none;
 }
 
 .jq-selectbox__select {
@@ -625,21 +602,24 @@ animation: gradient-animation 4s infinite alternate;
 }
 
 .jq-selectbox li {
-  padding: 1.07em .5em;
+  padding: 6px 12px;
 }
 
 .modal-dialog, .modal-content {
-  height: 100%; }
+  height: 100%;
+}
 
 .modal-dialog .carousel-inner {
   height: 100%;
   height: -webkit-fill-available;
-  height: fill-available; }
+  height: -moz-available;
+  height: fill-available;
+}
 
 .carousel-item {
-  text-align: center; }
+  text-align: center;
+}
 
 .carousel-item img {
-  margin: auto; }
-
-/*# sourceMappingURL=style.css.map */
+  margin: auto;
+}
