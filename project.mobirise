@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rk-logo-nur-hahn-128x119.png",
@@ -1043,6 +1043,78 @@
           "_anchor": "wowslider-k"
         },
         {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-text,.typed-text,.mbr-section-text": {
+              "letter-spacing": "0.03rem"
+            },
+            ".btn": {
+              "margin-left": "4px !important"
+            },
+            ".animated-element": {
+              "color": "@wordsColor"
+            },
+            ".typed-cursor": {
+              "opacity": "1",
+              "-webkit-animation": "blink 0.7s infinite",
+              "-moz-animation": "blink 0.7s infinite",
+              "animation": "blink 0.7s infinite",
+              "color": "@wordsColor"
+            },
+            "@keyframes blink": {
+              "0%": {
+                "opacity": "1"
+              },
+              "50%": {
+                "opacity": "0"
+              },
+              "100%": {
+                "opacity": "1"
+              }
+            },
+            "@-webkit-keyframes blink": {
+              "0%": {
+                "opacity": "1"
+              },
+              "50%": {
+                "opacity": "0"
+              },
+              "100%": {
+                "opacity": "1"
+              }
+            },
+            "@-moz-keyframes blink": {
+              "0%": {
+                "opacity": "1"
+              },
+              "50%": {
+                "opacity": "0"
+              },
+              "100%": {
+                "opacity": "1"
+              }
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<section class=\"header2\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" plugins=\"Typed\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full-Screen\" name=\"fullScreen\" checked=\"\">\n        <input type=\"checkbox\" title=\"Pfeil Anzeigen\" name=\"showArrow\" condition=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Titel Anzeigen\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Untertitel Anzeigen\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Animierten Text Anzeigen\" name=\"showAnimatedText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Text Anzeigen\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Buttons Anzeigen\" name=\"showButtons\" checked=\"\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" value=\"../_images/background2.jpg\" title=\"Hintergrundbild\" selected=\"\" parallax=\"\">\n            <input type=\"color\" value=\"#000000\" title=\"Hintergrundfarbe\">\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=l8UXhtqV6hU\" title=\"Hintergrundvideo\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay-Farbe\" name=\"overlayColor\" value=\"rgb(7, 9, 21)\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Transparenz\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <header codition=\"showSubtitle &amp;&amp; showAnimatedText\">Textanimationseinstellungen</header>\n        <select title=\"Texttyp\" name=\"wordsTitle\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n            <option value=\"title1\" selected=\"\">Titel 1</option>\n            <option value=\"title2\">Titel 2</option>\n            <option value=\"title3\">Titel 3</option>\n            <option value=\"text\">Text</option>\n            <option value=\"menu\">Menü</option>\n        </select>\n        <input type=\"color\" title=\"Textfarbe\" name=\"wordsColor\" value=\"#ffbc00\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n        <input type=\"range\" inline=\"\" title=\"Tippgeschw\" name=\"typeSpeed\" min=\"1\" max=\"100\" value=\"50\" step=\"1\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n        <input type=\"text\" title=\"Wort 1\" inline=\"\" name=\"animatedWord1\" value=\"Designer\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n        <input type=\"text\" title=\"Wort 2\" inline=\"\" name=\"animatedWord2\" value=\"Photographer\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n        <input type=\"text\" title=\"Wort 3\" inline=\"\" name=\"animatedWord3\" value=\"Dreamer\" condition=\"showSubtitle &amp;&amp; showAnimatedText\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-white col-md-12\">\n                <h1 class=\"mbr-section-title mbr-white mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">HALLO</h1>\n                <div class=\"typed-text pb-3\" mbr-class=\"{'display-1':wordsTitle=='title1','display-2':wordsTitle=='title2',\n                                      'display-5':wordsTitle=='title3','display-7':wordsTitle=='text',\n                                      'display-4':wordsTitle=='menu'}\" mbr-if=\"showSubtitle\">\n                    <span mbr-text=\"\" class=\"mbr-section-subtitle mbr-fonts-style mbr-white\" mbr-theme-style=\"display-1\" data-app-selector=\".typed-text\">\n                          ICH BIN MARKUS UND \n                    </span>\n                    <span mbr-if=\"showAnimatedText\">\n                      <span class=\"animated-element mbr-bold\" data-word1=\"{{animatedWord1}}\" data-word2=\"{{animatedWord2}}\" data-word3=\"{{animatedWord3}}\" data-speed=\"{{typeSpeed}}\">\n                      </span>\n                    </span>\n                </div>\n                <p class=\"mbr-section-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-section-text,.mbr-section-btn\">\n                    ICH BIN GUT IN DESIGN UND FOTOGRAFIE\n                </p>\n                <div mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\" mbr-if=\"showButtons\" class=\"pt-3 mbr-section-btn\">\n                    <a class=\"btn-primary btn btn-md\" type=\"submit\">ÜBER MICH</a>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "rqmx3cCxlP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header2-1n"
+        },
+        {
           "_name": "content12",
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -1052,7 +1124,7 @@
               "color": "#232323"
             },
             ".mbr-subtitle": {
-              "color": "#767676"
+              "color": "#232323"
             },
             ".mbr-subtitle B": {
               "color": "#232323"
