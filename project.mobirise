@@ -715,7 +715,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/radkombiant-web-46-1200x1800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -731,8 +731,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/radkombinat-2017-150-1800x1200.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/radkombinat-2017-150-1735x1157.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
