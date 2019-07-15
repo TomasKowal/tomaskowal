@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
+@import url(https://fonts.googleapis.com/css?family=Yellowtail:400);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -22,35 +22,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Dosis', sans-serif;
-  font-size: 3.5rem;
+  font-family: 'Yellowtail', handwriting;
+  font-size: 3.4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.6rem;
+  font-size: 5.44rem;
 }
 .display-2 {
-  font-family: 'Dosis', sans-serif;
-  font-size: 2rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.5rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.4rem;
 }
 .display-4 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 0.8rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.28rem;
+  font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Dosis', sans-serif;
-  font-size: 1.4rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -63,24 +63,24 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.64rem;
-    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -677,7 +677,7 @@ a:hover {
   background-color: #ffffff;
   box-shadow: none;
   color: #565656;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 2.5em;
@@ -962,12 +962,13 @@ body {
 .cid-rprBNboDV7 .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #efefef;
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   background: none;
 }
 .cid-rprBNboDV7 .navbar.opened {
   transition: all .3s;
-  background: #efefef !important;
+  background: rgba(255, 255, 255, 0.85);
 }
 .cid-rprBNboDV7 .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1069,7 +1070,7 @@ body {
   }
 }
 .cid-rprBNboDV7 .navbar.navbar-short {
-  background: #efefef !important;
+  background: #ffffff;
   min-height: 60px;
 }
 .cid-rprBNboDV7 .navbar.navbar-short .navbar-logo img {
@@ -1094,6 +1095,7 @@ body {
 }
 .cid-rprBNboDV7 .navbar-brand .navbar-logo a {
   outline: none;
+  padding: 10px;
 }
 .cid-rprBNboDV7 .dropdown-item.active,
 .cid-rprBNboDV7 .dropdown-item:active {
@@ -1110,7 +1112,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1186,6 +1188,7 @@ body {
 }
 .cid-rprBNboDV7 .navbar-dropdown {
   padding: .5rem 1rem;
+  position: fixed;
 }
 .cid-rprBNboDV7 a.nav-link {
   -webkit-justify-content: center;
@@ -1364,7 +1367,6 @@ body {
 }
 @media (max-width: 767px) {
   .cid-rprCaHf9yn .mbr-slider .carousel-control {
-    top: auto;
     bottom: 1rem;
   }
 }
@@ -1669,7 +1671,7 @@ body {
   }
 }
 .cid-rprFQjIXie .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-rprFQjIXie .mbr-section-title {
   text-align: center;
@@ -1978,8 +1980,8 @@ body {
   display: none;
 }
 .cid-rpvsEfP4dB {
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-rprD4RIgrt {
@@ -2071,12 +2073,12 @@ body {
 .cid-rprBNboDV7 .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #efefef;
+  background: #ffffff;
   background: none;
 }
 .cid-rprBNboDV7 .navbar.opened {
   transition: all .3s;
-  background: #efefef !important;
+  background: #ffffff !important;
 }
 .cid-rprBNboDV7 .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -2178,7 +2180,7 @@ body {
   }
 }
 .cid-rprBNboDV7 .navbar.navbar-short {
-  background: #efefef !important;
+  background: #ffffff !important;
   min-height: 60px;
 }
 .cid-rprBNboDV7 .navbar.navbar-short .navbar-logo img {
@@ -2219,7 +2221,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2295,6 +2297,7 @@ body {
 }
 .cid-rprBNboDV7 .navbar-dropdown {
   padding: .5rem 1rem;
+  position: fixed;
 }
 .cid-rprBNboDV7 a.nav-link {
   -webkit-justify-content: center;
@@ -2434,12 +2437,12 @@ body {
 .cid-rprBNboDV7 .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #efefef;
+  background: #ffffff;
   background: none;
 }
 .cid-rprBNboDV7 .navbar.opened {
   transition: all .3s;
-  background: #efefef !important;
+  background: #ffffff !important;
 }
 .cid-rprBNboDV7 .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -2541,7 +2544,7 @@ body {
   }
 }
 .cid-rprBNboDV7 .navbar.navbar-short {
-  background: #efefef !important;
+  background: #ffffff !important;
   min-height: 60px;
 }
 .cid-rprBNboDV7 .navbar.navbar-short .navbar-logo img {
@@ -2582,7 +2585,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rprBNboDV7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2658,6 +2661,7 @@ body {
 }
 .cid-rprBNboDV7 .navbar-dropdown {
   padding: .5rem 1rem;
+  position: fixed;
 }
 .cid-rprBNboDV7 a.nav-link {
   -webkit-justify-content: center;
